@@ -1,0 +1,1843 @@
+/* ============================================================================
+-------------------------------------------------------------------------------
+					All Website Responsiveness styles
+-------------------------------------------------------------------------------
+============================================================================= */
+
+/* =================== Fonts ===================== */
+
+@font-face{
+	font-family: font_bold;
+	src: url(../fonts/GothamBold.ttf);
+}
+@font-face{
+	font-family: font_semibold;
+	src: url(../fonts/GothamBook.ttf);
+}
+@font-face{
+	font-family: font_medium;
+	src: url(../fonts/GothamMedium.ttf);
+}
+@font-face{
+	font-family: font_light;
+	src: url(../fonts/GothamLight.ttf);
+}
+@font-face{
+	font-family: font_thin;
+	src: url(../fonts/Gotham-Thin.otf);
+}
+@font-face{
+	font-family: font_extraThin;
+	src: url(../fonts/Gotham-XLight.otf);
+}
+
+/*=================== Common Variables ===================*/
+
+:root{
+	--bg-white: #f7f7f7;
+	--theme-white: #f7f7f7;
+	--theme-yellow: #f7ce0f;
+	--theme-light-blue: #3b65b0;
+	--theme-dark-blue: #1e3565;
+	--theme-black: #262626;
+	--theme-dark-red: #ff781f;
+	--bg-yellow-transparent: rgba(247, 204, 15, 0.7);
+	--bg-yellow-shape: rgba(247, 204, 15, 0.8);
+	--bg-light-blue-shape1: rgba(59, 101, 176, 0.9);
+	--bg-light-blue-shape2: rgba(59, 101, 176, 0.4);
+	--theme-blue-gradient: linear-gradient(to top, #1e3565, transparent);
+	--theme-yellow-gradient-low: linear-gradient(to top, #f7ce0f, rgba(247, 204, 15, 0.5));
+	--dark-border: rgba(38,38,38,0.2);
+}
+
+/*-------- (max-width: 420px)---------------------------------------------*/
+@media (max-width: 650px) {
+	/* ========== common ============== */
+	body{
+		width: 100%;
+	}
+	svg{
+		display: none;
+	}
+	.col-md-3, .col-md-4, .col-md-5, .col-sm-12{
+		padding-left: 0;
+		padding-right: 0; 
+	}
+	.sec-horiz-divider{
+		width: 8%;
+		margin: 20px auto;
+		border-top: 4px solid #f7ce0f;
+	}
+
+	/* =========== navbar ============== */
+
+	.navbar-brand{
+		width: 25%;
+	}
+	.navbar-brand img{
+		width: 100%;
+		position: relative;
+		top: 0px;
+		left: 10px;
+	}
+	.navbar-toggler{
+   		display: block;
+		position: absolute;
+    	top: 0;
+    	right: 25px;
+    	margin-top: 20px;
+    	background: transparent;
+	}
+	.navbar-toggler:focus{
+		outline: none;
+		border: none;
+	}
+	.navbar-toggler .navbar-toggler-icon{
+    	color: var(--theme-yellow);
+    	margin-top: 5px;
+    }
+    .navbar-collapse{
+    	text-align: center;
+    	background: var(--theme-dark-red);
+    	padding: 5px 20px;
+    	border-radius: 10px;
+    	box-shadow: 1px 1px 8px 8px rgba(0, 0, 0, 0.3);
+    }
+    .navbar-collapse ul li a{
+		color: var(--theme-white);
+		transition: 0.2s;
+	}
+	.navbar-collapse ul li a:hover{
+		color: var(--theme-yellow);
+	}
+	.dropdown-menu{
+		text-align: center;
+	}
+	/* ========================= Header ======================= */
+	.header-content{
+		width: 100%;
+		height: 100vh;
+		background: url(../../assets/images/bg-img-11.png);
+	}
+	.header-content video{
+		display: hidden;
+	}
+	.header-title{
+		font-family: font_bold;
+		font-size: 2em;
+		color: var(--theme-white);
+	}
+	.header-text-div{
+		position: absolute;
+		width: 90%;
+		margin: 0;
+		top: 43%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.header-sub-title{
+		font-size: 1.5em;
+	}
+	.date-location-div{
+		width: 95%;
+		margin: 0 auto;
+	}
+	.date-location-div .place{
+		font-size: 1.5em;
+	}
+	.date-location-div .date{
+		margin-top: 22px;
+		font-size:1.3em;
+	}
+	.date-location-div .date, .date-location-div .place{
+		font-family: font_light;
+		font-size: 0.9em;
+		color: var(--theme-white);
+	}
+	/* ================ Countdown section ================== */
+	.countdown-sec{
+		display: block;
+		margin: 0;
+		padding: 0;
+	}
+	.countdown {	
+		width: 80%;
+		margin: 0 auto;
+		display: flex;
+		padding: 15px 0;
+		background: var(--theme-dark-red);
+		border-radius: 20px;
+		box-shadow: 1px 4px 10px 1px rgba(0,0,0,0.3);
+	}			
+	.countdown-title{
+		width: 100%;
+		font-size: 1.7em;
+		font-weight: normal; 
+		text-align: center;
+		letter-spacing: 1px;
+	}
+	.countdown-title span{
+		font-weight: normal;
+		font-size: 16px;
+	}
+	.countdown-sec .countdown-col{
+		width: 90%;
+		margin: 15px auto 0;
+		display: flex;
+	}
+	.days, .hours, .minutes, .seconds{
+		font-size: 1.7em;
+		font-weight: normal;
+	}
+	.smalltext{
+		font-family: font_medium;
+		font-size: 0.9em;
+	}
+
+	/* ================ About Section ================== */
+	
+	#about{
+		padding: 60px 0px;
+	}
+	#about-sec-animated-img{
+		display: none;
+	}
+	.abt-sec-title{
+		text-align: center;
+	}
+	.abt-sec-title h1{
+		margin-bottom: 20px;
+	}
+	#abt-section-para{
+		padding-right: 0 !important; 
+		margin: 10px 20px;
+	}
+	#abt-section-para h5{
+		text-align: center;
+	}
+	#abt-section-para h5 i{
+		display: none;
+	}
+	#abt-section-para p{
+		margin: 10px 0;
+		text-align: center;
+		font-size: 17px;
+	}
+	.abt-sec-list ul li{
+		font-family: font_1;
+		font-size: 18px;
+		text-align: center;
+	}
+	.abt-sec-horiz-divider{
+		width: 8%;
+		margin: 20px auto;
+		border-top: 4px solid var(--theme-yellow);
+	}
+
+	/* ================ Tracks section ================ */
+
+	#tracks-section-content{
+		padding: 60px 0 30px;
+	}
+	.tracks-sec-table-content{
+		margin-top: 25px !important;
+	}
+	#tracks-table-div{
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	#track-sec-animated-img{
+		display: none;
+	}
+
+	/*=================== Timeline section =================*/
+
+	#timeline{
+		padding: 60px 0;
+	}
+
+	/* ==================== Call for papers ================== */
+	#call-for-paper-sec{
+		padding: 80px 0;
+		background: #f3f3f3;
+	}
+	.call-for-paper-title{
+		margin-bottom: 50px;
+	}
+	.call-for-paper-title h1{
+		font-family: font_6;
+		color: #000;
+	}
+	.call-for-paper-title p{
+		font-size: 16px;
+	}
+	.call-for-paper-subdivs{
+		width: 90%;
+		margin: 7px auto;
+		padding: 20px 0;
+	}
+	.section-btn-area a{
+		font-family: font_10;
+		text-transform: uppercase;
+		color: #fff;
+		padding: 15px 40px;
+		margin: 10px 20px;
+    	background: linear-gradient(45deg, #c21e56 50%, #910618 50%);
+		box-shadow: 1px 1px 5px 5px #ddd;
+		position: relative;
+		display: inline-block;
+	}
+	.modal-body{
+		color: #666; 
+		padding: 40px 0 20px;
+	}
+	.modal-body table{
+		width: 100%;
+		margin: 0 auto 30px;
+	}
+	#more-infor-sec{
+		margin-top: 40px;
+	}
+	
+	/* ================== Keynote Speader ============= */
+	
+	#keynote{
+		padding: 60px 20px;
+	}
+	.speaker-body .keynote-speaker{
+		margin-bottom: 20px;
+	}
+
+	/*===================== Sponsors section =================*/
+	
+	#sponsors{
+		padding: 60px 0;
+	}
+
+	/* ================= committee =================== */
+	.program-com-content{
+		padding: 80px 0;
+		color: #fff;
+	}
+	.program-com-title{
+		margin-bottom: 50px;
+	}
+	.committee-people-div{
+		width: 90%;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+	.committee-people-div h3{
+		font-size: 23px;
+	}
+	.committee-people-div ul{
+		margin: 15px 0 0 20px;
+	}
+	.committee-people-div ul li{
+		font-family: font_7;
+		margin: 3px 0;
+		font-size: 16px;
+	}
+  	.person-title{
+		width: 100%;
+		text-align: center;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	#person-title1{
+		border-right: 0;
+		padding-bottom: 25px;
+		border-bottom: 1px solid #777;
+	}
+	#person-title2{
+		border-left: 0;
+		padding: 25px 0;
+	}
+	#person-title3{
+		border-left: 0;
+		padding-top: 25px;
+		border-top: 1px solid #777;
+	}
+	/* ========================= Gallery ======================= */
+	.main-box{
+		width: 100%;
+		height: auto;
+		display:block;
+	}
+
+	/* ===================== Footer ====================== */
+
+	#footer-sec{
+		text-align: center;
+	}
+	.footer-content{
+		padding: 50px 0 0;
+	}
+	.footer-sub-content h4{
+		font-family: font_medium;
+	}
+	.footer-sub-content{
+		margin-bottom: 35px;
+	}
+	.footer-sub-content:last-child{
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
+	.footer-divider{
+		border-top: 4px solid var(--theme-yellow);
+		width: 10%;
+		margin: 0 auto 20px;
+	}
+
+	/*================================
+			Subpages styles
+	===============================*/
+
+	.cfp-track-sec{
+		text-align: center;
+	}
+	.cfp-track-sec table{
+		text-align: left;
+	}
+	.subpage-sec-horiz-divider{
+		width: 8%;
+		margin: 20px auto;
+	}
+	.subpage-header-text-div{
+		position: absolute;
+		width: 90%;
+		margin: 0;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.subpage-header-title{
+		font-size: 2.2em;
+	}
+
+	/*===============================
+			Call for papers page 		
+	=================================*/
+
+	#call-for-papers-download-btns a{
+		margin-bottom: 20px;
+		table-layout: fixed;
+		width: 90%;
+		border-collapse: collapse;
+		box-sizing: inherit;
+		display: inline-block;
+		vertical-align: middle;
+		
+	}
+	.subpage-section{
+		padding-bottom: 50px;
+	}
+
+	/* ===============================
+			Registration page 
+	================================== */
+	.ticket-col{
+		margin-bottom: 30px;
+		border: none;
+	}
+	#reg-header{
+		width: 100%;
+		height: 60vh;
+	}
+	.reg-header-title{
+		width: 80%;
+		margin: 0 auto;
+		height: 50vh;
+		transform: translate(0%, 50%);
+		text-align: center;
+	}
+	.reg-person-benefits{
+		margin: 0 0px;
+	}
+	.reg-person-benefits div{
+		padding: 0 40px 20px;
+		border-right: none;
+	}
+	.reg-person-benefits div:last-child{
+		padding: 0 40px 0;
+	}
+	.sub-title-paras{
+		margin: 15px;
+	}
+	.tour-sub-divs{
+		padding: 15px;
+	}
+	.tour-sub-divs div{
+		border-right: none;
+		margin-bottom: 20px;
+	}
+	.reg-header-title h1{
+		font-size: 3em;
+	}
+	.reg-header-title small{
+		font-size: 1.32em;
+	}
+	#reg-form-sec{
+		padding: 80px 0;
+		background: #f3f3f3;
+	}
+	.reg-form-container{
+		width: 90%;
+		margin: 0 auto;
+	}
+	.reg-form-content form label{
+		font-size: 19px;
+	}
+	.reg-form-content form .sub-label{
+		font-family: font_1;
+		font-size: 16px;
+		text-transform: none;
+	}
+	.reg-form-content form label span{
+		font-family: font_1;
+		font-size: 18px;
+		text-transform: none;
+	}
+	.require-mark-topic-div{
+		text-align: right;
+		color: #888;
+		font-family: font_7;
+		font-size: 14px;
+		display: flex;
+		float: right;
+	}
+	.require-mark, .require-mark-1, .require-mark-2{
+		position: absolute;
+		background: linear-gradient(45deg, transparent 50%, red 50%);
+		width: 16px;
+		height: 16px;
+		/*border-radius: 50%;*/
+		z-index: 1;
+		opacity: 0.9;
+	}
+	.require-mark-title{
+		background: red;
+		width: 14px;
+		height: 14px;
+		border-radius: 50%;
+		z-index: 1;
+		opacity: 0.9;
+		margin: 2px 5px 0 0;
+	}
+	.require-mark-title{
+		right: 35.5%;
+	}
+	.require-mark{
+		top: 0px;
+		right: 0px;
+	}
+	.require-mark-1{
+		top: 0px;
+		right: 0px;
+	}
+	.require-mark-2{
+		top: 33px;
+		right: 0px;
+	}
+
+	/* ====================================================
+	------------------- Speakers page ---------------------
+	===================================================== */
+	#speaker-sec{
+		margin: 0 20px;
+	}
+	#keynote-speaker-one{
+		margin-bottom: 20px;
+	}
+	#speaker-header{
+		height: 75vh;
+	}
+	.speaker-sections{
+		text-align: center;
+	}
+	.speaker-sections h3{
+		margin-left: 0;
+	}
+	.speaker-content{
+		margin-top: 90px;
+		display: block;
+	}
+	#section2 .speaker-content{
+		width: 100% !important;
+	}
+	#section2 .s-profile{
+		width: 85%;
+		height: 220px !important;
+	}
+	.s-profile{
+		width: 85%;
+		height: 210px;
+		/*margin-top: 120px;*/
+		margin: 120px auto 0;
+	}
+	.speaker-content h6{
+		font-size: 18px;
+	}
+	.top-profile{
+		margin-top: 0;
+	}
+	.img-div{
+		padding: 0 70px;
+	}
+
+	/* =====================================
+			advisdort_panel.php styles
+	======================================== */
+
+	#ap-sec table thead th{
+		font-family: font_bold;
+		font-size: 1.1rem;
+		color: var(--theme-yellow);
+	}
+
+	#ap-sec table tbody td{
+		text-align: left;
+		font-family: font_light;
+		font-size: 0.9rem;
+	}
+
+	/*===================================
+			Contact US page 
+	===================================*/
+
+	.contact-divs{
+		margin: 0 20px 20px;
+	}
+	.contact-divs:last-child{
+		margin: 0 20px 0;
+	}
+
+
+	/* ====================================================
+	------------------- login page -------------------
+	===================================================== */
+	#login-header{
+		width: 100%;
+		height: 55vh;
+	}
+	.login-header-title{
+		width: 80%;
+		height: 50vh;
+		transform: translate(10%, 50%);
+	}
+	.login-header-title h1{
+		font-size: 3em;
+	}
+	.login-header-title small{
+		font-size: 1.32em;
+	}
+	#login-form-sec{
+		padding: 70px 0;
+		background: #f3f3f3;
+	}
+	.form-container{
+		width: 85%;
+		margin: 0 auto;
+	}
+	.form-content{
+		padding: 40px 20px;
+	}
+	/* ============================================ 
+					Admin page styles 
+	=============================================== */
+	.admin-top{
+		width: 90%;
+		margin: 20px auto;
+		display: flex;
+	}
+	.admin-top .admin-title-div{
+		width: 50%;
+	}
+	.admin-top .admin-title-div #admin-title{
+		font-size: 25px;
+	}
+	.admin-top .admin-logout-div{
+		width: 50%;
+		margin: auto 0;
+		text-align: right;
+	}
+	#admin-logout-btn{
+		font-size: 15px;
+		letter-spacing: 1px;
+	}
+	.filter-div{
+		width: 80%;
+		margin: 20px auto;
+	}
+	#filter-form1{
+		margin-bottom: 20px;
+	}
+	#filter-form1 select{
+		padding: 5px;
+		width: 90%;
+	}
+	#filter-form2 input[type=text]{
+		width: 100%;
+	}
+	#filter-form1 .admin_form_opt, #filter-form2 .admin_form_opt{
+		display: flex;
+	}
+	.col-md-7, .col-md-5, .col-md-4, .col-md-1{
+		padding-right: 0;
+	}
+	#filter-form1 label, #filter-form2 label{
+		font-weight: bold;
+	}
+	#filter-form1 #filter-btn1, #filter-form2 #filter-btn2{
+		margin-top: 10px;
+		padding: 5px 15px;
+		font-family: sans-serif;
+		color: #fff;
+		text-transform: uppercase;
+		font-weight: bold;
+		border: 0;
+		background: #00C851;
+	}
+	#admin-section{
+		padding: 0;
+	}
+	.admin-container{
+		width: 95%;
+		margin: 0 auto;
+	}
+	.admin-container table{
+		width: 100%;
+	}
+	table thead{
+		text-align: center;
+	}
+	table th, table tbody td{
+		font-size: 13px;
+		font-weight: normal;
+		font-family: font_7;
+	}
+	table tbody .button-td{
+		text-align: center;
+	}
+	#bank_rec_form button, #std_ship_form button{
+		font-size: 12px;
+		font-family: font_7;
+	}
+	.download-btns-div{
+		width: 95%;
+		margin: 25px auto;
+	}
+	.download-btns-div button{
+		padding: 5px 17px;
+	}
+
+	/* Workshop page */
+
+	.workshop-content .date > div:first-child{
+		margin-bottom: 10px !important;
+	}
+	.workshop-speaker img{
+		margin-bottom: 20px;
+	}
+}
+
+
+
+
+/*-------- (min-width: 768px) and (max-width: 1023px)---------------------------------------------*/
+
+@media (min-width: 768px) and (max-width: 1024px){
+	
+		body{
+			width: 100%;
+		}
+		svg{
+			display: none;
+		}
+		.col-md-3, .col-md-4, .col-md-5, .col-sm-12{
+			padding-left: 0;
+			padding-right: 0; 
+		}
+		.sec-horiz-divider{
+			width: 8%;
+			margin: 20px auto;
+			border-top: 4px solid #f7ce0f;
+		}
+	/* =========== navbar ============== */
+
+	.navbar-brand{
+		width: 25%;
+	}
+	.navbar-brand img{
+		width: 100%;
+		position: relative;
+		top: 0px;
+		left: 10px;
+	}
+	.navbar-toggler{
+   		display: block;
+		position: absolute;
+    	top: 0;
+    	right: 25px;
+    	margin-top: 20px;
+    	background: transparent;
+	}
+	.navbar-toggler:focus{
+		outline: none;
+		border: none;
+	}
+	.navbar-toggler .navbar-toggler-icon{
+    	color: var(--theme-yellow);
+    	margin-top: 5px;
+    }
+    .navbar-collapse{
+    	text-align: center;
+    	background: var(--theme-dark-red);
+    	padding: 5px 20px;
+    	border-radius: 10px;
+    	box-shadow: 1px 1px 8px 8px rgba(0, 0, 0, 0.3);
+    }
+    .navbar-collapse ul li a{
+		color: var(--theme-white);
+		transition: 0.2s;
+	}
+	.navbar-collapse ul li a:hover{
+		color: var(--theme-yellow);
+	}
+	.dropdown-menu{
+		text-align: center;
+	}
+	/* ========================= Header ======================= */
+	.header-content{
+		width: 100%;
+		height: 100vh;
+		background: url(../../assets/images/bg-img-11.png);
+	}
+	.header-content video{
+		display: hidden;
+	}
+	.header-title{
+		font-family: font_bold;
+		font-size: 2em;
+		color: var(--theme-white);
+	}
+	.header-text-div{
+		position: absolute;
+		width: 90%;
+		margin: 0;
+		top: 43%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.header-sub-title{
+		font-size: 1.5em;
+	}
+	.date-location-div{
+		width: 95%;
+		margin: 0 auto;
+	}
+	.date-location-div .place{
+		font-size: 1.5em;
+	}
+	.date-location-div .date{
+		margin-top: 22px;
+		font-size:1.3em;
+	}
+	.date-location-div .date, .date-location-div .place{
+		font-family: font_light;
+		font-size: 0.9em;
+		color: var(--theme-white);
+	}
+	/* ================ Countdown section ================== */
+	.countdown-sec{
+		display: block;
+		margin: 0;
+		padding: 0;
+	}
+	.countdown {	
+		width: 80%;
+		margin: 0 auto;
+		display: flex;
+		padding: 15px 0;
+		background: var(--theme-dark-red);
+		border-radius: 20px;
+		box-shadow: 1px 4px 10px 1px rgba(0,0,0,0.3);
+	}			
+	.countdown-title{
+		width: 100%;
+		font-size: 1.7em;
+		font-weight: normal; 
+		text-align: center;
+		letter-spacing: 1px;
+	}
+	.countdown-title span{
+		font-weight: normal;
+		font-size: 16px;
+	}
+	.countdown-sec .countdown-col{
+		width: 90%;
+		margin: 15px auto 0;
+		display: flex;
+	}
+	.days, .hours, .minutes, .seconds{
+		font-size: 1.7em;
+		font-weight: normal;
+	}
+	.smalltext{
+		font-family: font_medium;
+		font-size: 0.9em;
+	}
+	/* ================ Countdown section ================== */
+	.countdown-sec{
+		width: 100%;
+		padding: 63px 0;
+	}
+	.countdown {	
+		width: 100%;
+		margin: 0 auto;
+		display: flex;
+		padding : 32px 0px; 
+		 /* background: rgb(237, 206, 24);  */
+	}
+	.countdown-title{
+		width: 35%;
+		font-size: 1.5em;
+		font-family: font_9;
+		font-weight: normal; 
+	}
+	.countdown-title span{
+		font-family: font_7;
+		font-weight: normal;
+		font-size: 20px;
+	}
+	.countdown-sec .countdown-col{
+		width: 65%;
+		margin: 15px auto 0;
+	}
+	.days, .hours, .minutes, .seconds{
+		font-size: 3em;
+	}
+	.smalltext{
+		font-size: 1em;
+	}
+	/* ==================== About Section  ================== */
+	#about{
+		padding: 60px 0px;
+	}
+	#about-sec-animated-img{
+		display: none;
+	}
+	.about-handle{
+		margin-left: 150px;
+		
+	}
+	.abt-sec-title{
+		text-align: center;
+	}
+	.abt-sec-title h1{
+		margin-bottom: 20px;
+	}
+	#abt-section-para{
+		padding-right: 0 !important; 
+		margin: 10px 10px;
+	}
+	#abt-section-para h5{
+		text-align: center;
+	}
+	#abt-section-para h5 i{
+		display: none;
+	}
+	#abt-section-para p{
+		margin: 10px 0;
+		text-align: center;
+		font-size: 25px;
+	}
+	.abt-sec-list ul li{
+		font-family: font_1;
+		font-size: 18px;
+		text-align: center;
+	}
+	.abt-sec-horiz-divider{
+		width: 8%;
+		margin: 20px auto;
+		border-top: 4px solid var(--theme-yellow);
+	}
+
+	/* ================ Tracks section ================ */
+
+	#tracks-section-content{
+		padding: 30px 0 30px;
+	}
+	.tracks-sec-table-content{
+		margin-top: 25px !important;
+	}
+	#tracks-table-div{
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+		margin-left: 150px;
+	}
+	#track-sec-animated-img{
+		display: none;
+	}
+
+	/* ================== Keynote Speader ============= */
+	
+		#keynote{
+			padding: 60px 20px;
+			margin-top: 60px;
+		}
+		
+		.handle-speaker{
+			max-width:100%;
+			min-width:600px;
+			padding:10px;
+   			margin-left:500px;
+		}
+	
+	/* ================ Registration section ================ */
+	#reg-section-content{
+		padding: 60px 0px;
+	}
+	.reg-sec-title{
+		margin-bottom: 0px;
+	}
+	.reg-sec-title h1{
+		font-family: font_6;
+		color: #fff;
+	}
+	.card{
+		border-radius: 20px;
+		border: 4px solid #fff;
+	}
+	.card-body{
+		padding: 0 20px 20px;
+		z-index: 1;
+	}
+	.card img{
+		width: 50%;
+		margin: 40px auto 0;
+		z-index: 1;
+	}
+	.card .card-title{
+		padding: 0px;
+		font-family: font_2;
+		font-size: 1.5em;
+		color: #e5950b;
+	}
+	.card .card-sub-title{
+		padding: 5px 5px;
+		font-family: font_7;
+		font-size: 1.2em;
+		color: #edce18;
+	}
+	.card .card-text{
+		font-family: font_7;
+		font-size: 0.9em;
+	}
+	.side-cards{
+		margin: 120px 0;
+		color: #fff;
+		background: transparent;
+		transition: 0.7s;
+		overflow: hidden;
+	}
+	.center-card{
+		margin: 40px 0;
+		color: #fff;
+		background: transparent;
+		transition: 0.7s;
+		overflow: hidden;
+	}
+	.side-cards .card-body, .center-card .card-body{
+		padding: 20px 0 40px;
+	}
+	.ticket-body{
+		margin-bottom: 0px;
+		border: none;
+		width:700px;
+		margin-right: 10px;
+		margin-left: 0px;
+	}
+
+
+
+	/* ==================== Call for papers ================== */
+	#call-for-paper-sec{
+		padding: 80px 0;
+		background: #f3f3f3;
+	}
+	.call-for-paper-title{
+		margin-bottom: 50px;
+	}
+	.call-for-paper-title h1{
+		font-family: font_6;
+		color: #000;
+	}
+	.call-for-paper-title p{
+		font-size: 19px;
+	}
+	.call-for-paper-subdivs{
+		width: 100%;
+		margin: 7px auto;
+		padding: 20px 0;
+		border: 0;
+	}
+	.call-for-paper-subdivs .card-text{
+		font-size: 17px;
+	}
+	.section-btn-area a{
+		padding: 15px 30px;
+		margin: 10px 8px;
+		font-size: 14px;
+	}
+	
+	.person-main-title{
+		font-size: 1.25em;
+	}
+	.person-sub-title{
+		font-size: 1em;
+	}
+	.theme-btn{
+		padding: 15px 30px;
+		margin: 10px 8px;
+		width: 100%;
+	}
+
+	/* ================= committee =================== */
+	.program-com-content{
+		padding: 80px 0;
+		color: #fff;
+	}
+	.program-com-title{
+		margin-bottom: 50px;
+	}
+	.committee-people-div{
+		width: 90%;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+	.committee-people-div h3{
+		font-size: 23px;
+	}
+	.committee-people-div ul{
+		margin: 15px 0 0 20px;
+	}
+	.committee-people-div ul li{
+		font-family: font_7;
+		margin: 3px 0;
+		font-size: 16px;
+	}
+	.oc-person{
+		width: 100px;
+		margin: 60px;
+	}
+	.person-title{
+		width: 100%;
+		text-align: center;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	#person-title1{
+		border-right: 0;
+		padding-bottom: 25px;
+		border-bottom: 1px solid #777;
+	}
+	#person-title2{
+		border-left: 0;
+		padding: 25px 0;
+	}
+	#person-title3{
+		border-left: 0;
+		padding-top: 25px;
+		border-top: 1px solid #777;
+	}
+	  /*======================== Keynote Speaker ========================== */
+	  
+	
+	.Keynote-speaker-content{
+		padding: 50px 0;
+		color: #fff;
+	}
+	.Keynote-speaker-title{
+		margin-bottom: 10px;
+	}
+	.Keynote-speaker-title h1{
+		font-family: font_6;
+		color: #fff;
+	}
+	.displaycard{
+		border-radius: 20px;
+		border: 4px solid #fff;
+		margin: 40px 0px;
+		color: #fff;
+		transition: 0.7s;
+		overflow: hidden;
+		text-align: center;
+	}
+	.displaycard-body{
+		padding: 30px 30px 25px;
+	}
+	.displaycard img{
+		width:40%;
+		margin: 0 auto;
+	    height:auto;
+		border: 1px solid #ddd;
+	  	border-radius: 10px;
+	}
+	.displaycard .displaycard-title{
+		padding: 20px 0px;
+		font-family: font_9;
+		font-size: 1.6em;
+		color:#edce18;
+		padding-left: 15px;
+	}
+	.displaycard .displaycard-sub-title{
+		padding: 5px 5px;
+		font-family: font_1;
+		font-size: 1.5em;
+	}
+	.displaycard .displaycard-text{
+		font-family: font_1;
+		font-size: 1.2em;
+		padding-left: 0;
+	}
+	#plenarySpekers-Button{
+		position: relative;
+		right: 0;
+		bottom: 5px;
+	}
+	.btn-speaker-div{
+		text-align: center;
+	}
+	.btn-speakers{
+		background-color: transparent;
+		border: 2px solid rgb(237, 206, 24);
+		font-family: font_1;
+		font-size: 1.1em;
+		color: #f3f3f3;
+		margin-top: 15px;
+	}
+	.btn-speakers:hover{
+		letter-spacing: normal;
+		border: 2px solid #fff;
+		color: rgb(237, 206, 24);
+	}
+	.modal{
+		z-index: 9990;
+		margin-top: 100px;	
+	}
+	.modal-header{
+		font-family: font_1;
+		color: #000; 
+	}
+	.modal-header span{
+		color: #000 
+	}
+	.modal-body{
+		color: #666;   
+	}
+	.modal-body .row {
+		margin: 0px 10px;
+	}
+	.modal-body h3{
+		font-family: font_1;
+		font-size: 1.3em;
+	}
+	.modal-body p{
+		font-family: font_7;
+		font-size: 1em;
+		margin-left: 20px;
+	}
+	.modal-body ol{
+		margin-left: 30px;
+	}
+	.modal-body ul{
+		margin-left: 35px;
+		padding: 0px;
+		list-style-type: circle;
+	}
+	.modal-body li{
+		font-family: font_7;
+		font-size: 1em;
+	}
+	.modal-body img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		padding-top: 10px;
+	}
+	/* ========================= Gallery ======================= */
+	.main-box{
+		width: 33%;
+		height: auto;
+		display: inline-flex;
+	}
+	.img-box{
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+	}
+	.img-box img{
+		position: relative;
+		width: 100%;
+		transition: 0.4s;
+	}
+	.img-icon{
+		position: absolute;
+		background: rgba(107, 0, 255, 0.8);
+		width: 29.8%;
+		height: 60px;
+		padding: 76px 0;
+		opacity: 0;
+		transition: 0.4s;
+	}
+	.img-icon a{
+		padding: 13px;
+		color: #6b00ff;
+		background: #edce18;
+		border: 4px solid #c21e56;
+		border-radius: 50%;
+		transition: 0.4s;
+		transform: scale(0);
+	}
+	.main-box:hover .img-icon{
+		opacity: 1;
+	}
+	.main-box:hover .img-icon a{
+		transform: scale(1);
+	}
+	.main-box:hover .img-box img{
+		transform: scale(1.15);
+	}
+	/* ===================== Footer ====================== */
+	#footer-sec{
+		background-size: contain;
+	}
+	.footer-content{
+		padding: 50px 0px 0px 10px;
+	}
+	.footer-logo-img img{
+		width: 75%;
+	}
+	.footer-sub-content h4{
+		font-family: font_11;
+	}
+	.footer-lower-text{
+		padding-bottom: 25px;
+		font-family: font_1;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.footer-lower-text a{
+		color: #edce18;
+		transition: 0.05s;
+	}
+	.footer-sponsor .sponsor-col{
+		width: 100%;
+		margin: 2 auto ;
+		display: inline-flex;
+	}
+	.footer-event-address, .footer-event-address a{
+		font-family: font_7;
+		font-size: 13px;
+		color: #ddd;
+		transition: 0.2s;
+	}
+	.footer-sponsor img{
+		max-width:45%;
+	    height:auto;
+		margin: 5px ;
+	}
+	.footer-bottom-divider{
+		width: 90%;
+		margin: 15px auto 0;
+		border-top: 1px solid #777;
+	}
+	.footer-lower-text{
+		padding: 15px 0;
+		font-family: font_1;
+		font-size: 14px;
+		text-transform: uppercase;
+		color: #fff;
+	}
+
+	/* ===============================
+			Registration page 
+	================================== */
+	#reg-header{
+		width: 100%;
+		height: 40vh;
+	}
+	.reg-header-title{
+		width: 80%;
+		margin: 0 auto;
+		height: 40vh;
+		transform: translate(0%, 50%);
+		text-align: center;
+	}
+	.reg-header-title h1{
+		font-size: 3em;
+	}
+	.reg-header-title small{
+		font-size: 1.32em;
+	}
+	#reg-form-sec{
+		padding: 80px 0;
+		background: #f3f3f3;
+	}
+	.reg-form-container{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.reg-form-content form label{
+		font-size: 19px;
+	}
+	.reg-form-content form input[type=email]{
+		padding-right: 15px;
+	}
+	.reg-form-content form .sub-label{
+		font-family: font_1;
+		font-size: 16px;
+		text-transform: none;
+	}
+	.reg-form-content form label span{
+		font-family: font_1;
+		font-size: 18px;
+		text-transform: none;
+	}
+	.require-mark-topic-div{
+		text-align: right;
+		color: #888;
+		font-family: font_7;
+		font-size: 14px;
+		display: flex;
+		float: right;
+	}
+	.require-mark, .require-mark-1, .require-mark-2{
+		position: absolute;
+		background: linear-gradient(45deg, transparent 50%, red 50%);
+		width: 16px;
+		height: 16px;
+		z-index: 1;
+		opacity: 0.9;
+	}
+	.require-mark-title{
+		background: red;
+		width: 14px;
+		height: 14px;
+		border-radius: 50%;
+		z-index: 1;
+		opacity: 0.9;
+		margin: 2px 5px 0 0;
+	}
+	/* ====================================================
+	------------------- Speakers Page ---------------------
+	======================================================= */
+	.speaker-sections{
+		text-align: center;
+	}
+	.speaker{
+		width: 100px;
+		margin: 60px;
+	}
+	.speaker-sections h3{
+		margin-left: 15px;
+	}
+	.speaker-content{
+		margin-top: 90px;
+		display: block;
+	}
+	#section2 .speaker-content{
+		width: 100% !important;
+	}
+	#section2 .s-profile{
+		width: 50%;
+		height: 270px !important;
+	}
+	.s-profile{
+		width: 50%;
+		height: 260px;
+		margin: 120px auto 0;
+	}
+	.profile-content{
+		position: relative;
+		top: -90px;
+	}
+	.speaker-content h6{
+		font-size: 18px;
+	}
+	.top-profile{
+		margin-top: 0;
+	}
+	.img-div{
+		padding: 0 70px;
+	}
+
+	/* contact us page*/
+	.contact-divs{
+			margin: 0 20px 20px;
+			width: 100px;
+	}
+	.contact-divs:last-child{
+			margin: 0 20px 0;
+			width: 100px;
+	}
+
+	/* ====================================================
+	------------------- login page -------------------
+	===================================================== */
+	#login-header{
+		width: 100%;
+		height: 35vh;
+	}
+	.login-header-title{
+		width: 80%;
+		height: 30vh;
+		transform: translate(10%, 50%);
+	}
+	.login-header-title h1{
+		font-size: 3em;
+	}
+	.login-header-title small{
+		font-size: 1.32em;
+	}
+	#login-form-sec{
+		padding: 70px 0;
+		background: #f3f3f3;
+	}
+	.form-container{
+		width: 70%;
+		margin: 0 auto;
+	}
+	.form-content{
+		padding: 40px;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/*-------- (min-width: 1024px)---------------------------------------------*/
+@media (min-width: 1024px) and (max-width: 1335px){
+	.navbar-brand{
+		width: 10%;
+	}
+	.navbar-brand img{
+		width: 80%;
+		transition: 0.4s;
+	}
+
+	/* ------- Keynote speaker section --------------- */
+	.displaycard{
+		text-align: left;
+	}
+	.displaycard-body{
+		padding: 30px 30px 25px;
+	}
+	.displaycard img{
+		width:100%;
+		margin-top: 5px;
+	}
+	.displaycard .displaycard-title{
+		padding: 0 0 10px;
+		font-size: 1.5em;
+		padding-left: 0;
+	}
+	.displaycard .displaycard-sub-title{
+		font-size: 1.5em;
+	}
+	.displaycard .displaycard-text{
+		font-size: 1.1em;
+		padding-left: 0;
+	}
+	#plenarySpekers-Button{
+		position: relative;
+		right: 0;
+		bottom: 5px;
+	}
+	.btn-speaker-div{
+		text-align: right;
+	}
+	.btn-speakers{
+		background-color: transparent;
+		border: 2px solid rgb(237, 206, 24);
+		font-family: font_1;
+		font-size: 1em;
+		color: #f3f3f3;
+		margin-top: 0px;
+	}
+
+	/* ===================== registration page ====================== */
+.ticket-body{
+		margin-bottom: 0px;
+		border: none;
+		width:930px;
+		margin-right: 10px;
+		margin-left: 0px;
+	}
+	/* ====================================================
+	------------------- Speakers Page ---------------------
+	======================================================= */
+	.speaker-sections{
+		text-align: center;
+	}
+	.speaker-sections h3{
+		margin-left: 15px;
+	}
+	.speaker-content{
+		margin-top: 90px;
+		display: block;
+	}
+	#section2 .speaker-content{
+		width: 100% !important;
+	}
+	#section2 .s-profile{
+		width: 50%;
+		height: 270px !important;
+	}
+	.s-profile{
+		width: 50%;
+		height: 260px;
+		margin: 120px auto 0;
+	}
+	.profile-content{
+		position: relative;
+		top: -90px;
+	}
+	.speaker-content h6{
+		font-size: 18px;
+	}
+	.top-profile{
+		margin-top: 0;
+	}
+	.img-div{
+		padding: 0 80px;
+	}
+	.img-div img{
+		width: 70%;
+		border: 1px solid #ccc;
+		border-radius: 50%;
+		transition: 0.3s;
+	}
+
+	/* ===================== Footer ====================== */
+	#footer-sec{
+		background-size: contain;
+		background-repeat: repeat-x;
+	}
+	.footer-content{
+		padding: 50px 0px 0px 10px;
+	}
+	.footer-logo-img img{
+		width: 75%;
+	}
+	.footer-sub-content h4{
+		font-family: font_11;
+	}
+	.footer-lower-text{
+		padding-bottom: 25px;
+		font-family: font_1;
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+	.footer-lower-text a{
+		color: #edce18;
+		transition: 0.05s;
+	}
+	.footer-sponsor .sponsor-col{
+		width: 100%;
+		margin: 2 auto ;
+		display: inline-flex;
+	}
+	.footer-event-address, .footer-event-address a{
+		font-family: font_7;
+		font-size: 13px;
+		color: #ddd;
+		transition: 0.2s;
+	}
+	.footer-sponsor img{
+		max-width:45%;
+	    height:auto;
+		margin: 5px ;
+	}
+	.footer-bottom-divider{
+		width: 90%;
+		margin: 15px auto 0;
+		border-top: 1px solid #777;
+	}
+	.footer-lower-text{
+		padding: 15px 0;
+		font-family: font_1;
+		font-size: 14px;
+		text-transform: uppercase;
+		color: #fff;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+/*---------------- min-width = 1280px --------------------*/
+@media(min-width: 1280px){
+	.speaker-sections{
+		text-align: center;
+	}
+	.speaker-sections h3{
+		margin-left: 15px;
+	}
+	.speaker-content{
+		margin-top: 90px;
+		display: inline-flex;
+	}
+	.s-profile{
+		width: 20%;
+		height: 250px;
+		margin: 20px 10px 0;
+	}
+	#section2 .s-profile{
+		height: 250px;
+	}
+	.profile-content{
+		position: relative;
+		top: -75px;
+	}
+	.speaker-content h6{
+		font-size: 18px;
+	}
+	.speaker-content p{
+		font-size: 13px;
+	}
+	.speaker-content p i{
+		font-size: 12.5px;
+	}
+	.img-div{
+		padding: 0 35px;
+	}
+	.img-div img{
+		width: 100%;
+		border: 1px solid #ccc;
+		border-radius: 50%;
+		transition: 0.3s;
+	}
+}
+
+
+
+
+
+
+
+
+/*--------------------- min-width: 1920px -----------------------*/
+@media(min-width: 1920px){
+	.navbar-brand{
+		width: 10%;
+	}
+	.navbar-brand img{
+		width: 70%;
+		transition: 0.4s;
+	}
+	.navbar-img-scroll img{
+		width: 47%;
+	}
+	.s-profile{
+		width: 20%;
+		height: 350px;
+		margin: 20px 10px 0;
+	}
+	#section2 .s-profile{
+		height: 350px;
+	}
+	.speaker-content h6{
+		font-size: 23px;
+	}
+	.speaker-content p{
+		font-size: 16px;
+	}
+	.speaker-content p i{
+		font-size: 16px;
+	}
+
+	@media screen and (min-width: 660px) {
+
+  /************************
+  HEADER
+  *************************/
+
+  nav {
+    background: none;
+    float: right;
+    font-size: 1.125em;
+    text-align: right;
+    width: 45%;
+  }
+
+  #logo {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+    width: 45%;
+  }
+
+  h1 {
+    font-size: 2.5em;
+  }
+
+  h2 {
+    font-size: 0.825em;
+    margin-bottom: 20px;
+  }
+
+  header {
+    border-bottom: 5px solid #599a68;
+    margin-bottom: 60px;
+  }
+
+  /***********************
+  TWO COLUMN LAYOUT
+  ************************/
+
+  #primary {
+    width: 50%;
+    float: left;
+  }
+
+  #secondary {
+    width: 40%;
+    float: right;
+  }
+
+  /************************
+  Page: HOME PAGE
+  *************************/
+
+  #gallery li {
+    width: 28.3333%;
+  }
+
+  /************************
+  Page: ABOUT
+  *************************/
+
+  .profile-photo {
+    float: left;
+    margin: 0 5% 80px 0;
+  }
+
+}
+	
+}

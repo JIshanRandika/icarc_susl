@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteBase /icarc_new
+
+RewriteRule ^ap ap.php [NC,L]
+RewriteRule ^awards awards.php [NC,L]
+RewriteRule ^cfp cfp.php [NC,L]
+RewriteRule ^contact contact.php [NC,L]
+RewriteRule ^crs crs.php [NC,L]
+RewriteRule ^oc oc.php [NC,L]
+RewriteRule ^register register.php [NC,L]
+RewriteRule ^speakers speakers.php [NC,L]
+RewriteRule ^tp tp.php [NC,L]
+RewriteRule ^gallery gallery.php [NC,L]
