@@ -60,14 +60,14 @@
 	--theme-yellow-gradient-low: linear-gradient(to top, #f7ce0f, rgba(247, 204, 15, 0.5));
 	--dark-border: rgba(38,38,38,0.2);
 
-	--theme-light-purple: #ff6600;
-	--theme-dark-red:#ff6600;
-	--theme-red:#ff781f;
+	--theme-light-purple: #cf6620;
+	--theme-dark-red: #cf6620;
+	--theme-red: #cf6620;
 	--theme-light-red: #da712c;
 	--theme-pink: #f7d1c2; 
 	--theme-pinks: #ee9fb9;
 	--theme-d-red:#b8ac99;
-	--theme-dred:#ff781f;
+	--theme-dred: #cf6620;
 
 	
 }
@@ -749,7 +749,7 @@
 }
 .footer-lower-text{
 	width: 100%;
-	background-color: #ff6600;
+	background-color: #cf6620;
 	padding: 15px 0;
 	font-family: font_light;
 	font-size: 12px;
