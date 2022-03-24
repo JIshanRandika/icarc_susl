@@ -73,17 +73,17 @@
 					<div class="col-sm-12 col-md-4 col-lg-3 contact-divs">
 						<h4>Inquiries</h4>
 						<hr>
-						<a href="mailto:info@icarc.sab.ac.lk">info@icarc.sab.ac.lk</a>
+						<a style="color: white; font-weight: bold" href="mailto:info@icarc.sab.ac.lk">info@icarc.sab.ac.lk</a>
 					</div>
 					<div class="col-sm-12 col-md-5 col-lg-3 contact-divs">
 						<h4>Secretary</h4>
 						<hr>
-						<a href="mailto:secretary@icarc.sab.ac.lk">secretary@icarc.sab.ac.lk</a>
+						<a style="color: white; font-weight: bold" href="mailto:secretary@icarc.sab.ac.lk">secretary@icarc.sab.ac.lk</a>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-3 contact-divs">
 						<h4>General-Chair</h4>
 						<hr>
-						<a href="mailto:chair@icarc.sab.ac.lk">chair@icarc.sab.ac.lk</a>
+						<a style="color: white; font-weight: bold" href="mailto:chair@icarc.sab.ac.lk">chair@icarc.sab.ac.lk</a>
 					</div>
 				</div>
 			</div>
