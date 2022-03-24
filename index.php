@@ -415,7 +415,7 @@
    <!-- Organized By------------------------------------------------------------------------------------------>
    <div class="continer-fluid padding text-center" id="sponsors">
         <div class="sponsors-sec-title text-center" data-aos="fade-up" data-aos-duration="1300">
-            <h2>Organized By</h2>
+            <h1 style="padding-top: 20px;">Organized By</h1>
             <div class="sec-horiz-divider"></div>
         </div>
         <div class="container mt-5">
@@ -447,7 +447,7 @@
      <!-- Technical Co-Sponsors section ------------------------------------------------------------------------------------------>
      <div class="continer-fluid padding text-center" id="sponsors">
         <div class="sponsors-sec-title text-center" data-aos="fade-up" data-aos-duration="1300">
-            <h2>Technical Co-Sponsors</h2>
+            <h1 style="padding-top: 20px;">Technical Co-Sponsors</h1>
             <div class="sec-horiz-divider"></div>
         </div>
         <div class="container mt-5">
@@ -477,7 +477,7 @@
             <!-- Recognition From ------------------------------------------------------------------------------------------>
             <div class="continer-fluid padding text-center" id="sponsors">
         <div class="sponsors-sec-title text-center" data-aos="fade-up" data-aos-duration="1300">
-            <h2>Recognition From</h2>
+            <h1 style="padding-top: 20px;">Recognition From</h1>
             <div class="sec-horiz-divider"></div>
         </div>
         <div class="container mt-5">
@@ -508,15 +508,15 @@
     <!-- Sponsors section ------------------------------------------------------------------------------------------>
     <div class="continer-fluid padding text-center" id="sponsors">
         <div class="sponsors-sec-title text-center" data-aos="fade-up" data-aos-duration="1300">
-            <h2>Financially Sponsored By</h2>
+            <h1 style="padding-top: 20px;">Financially Sponsored By</h1>
             <div class="sec-horiz-divider"></div>
         </div>
 
        <div class="container">
         <div class="row">
             <div class="col-sm-5 col-md-4">
-            <h4>Platinum Sponsor</h4>
-            <div class="sec-horiz-divider"></div>
+            <h4 style="color: #757575">Platinum Sponsor</h4>
+            <div style="margin: 30px;"></div>
             <div class="row justify-content-between" id="sponsors-imgs-row">
                 <div class="col-sm-12 col-md-3 col-lg-1 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
                 
@@ -532,8 +532,8 @@
 
 
             <div class="col-sm-5 offset-sm-2 col-md-4 offset-md-0">
-            <h4>Gold Sponsor</h4>
-            <div class="sec-horiz-divider"></div>
+            <h4 style="color: #757575">Gold Sponsor</h4>
+                <div style="margin: 30px;"></div>
             <div class="row justify-content-between" id="sponsors-imgs-row">
                 <div class="col-sm-12 col-md-3 col-lg-1 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
                 
@@ -548,8 +548,9 @@
             </div>
 
               <div class="col-sm-5 offset-sm-2 col-md-4 offset-md-0">
-            <h4>Silver Sponsor</h4>
-            <div class="sec-horiz-divider"></div>
+            <h4 style="color: #757575">Silver Sponsor</h4>
+<!--            <div class="sec-horiz-divider"></div>-->
+                  <div style="margin: 30px;"></div>
             <div class="row justify-content-between" id="sponsors-imgs-row">
                 <div class="col-sm-12 col-md-3 col-lg-1 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
                 
@@ -568,8 +569,8 @@
 
         <div class="row justify-content-center">
         <divclass="col align-self-center">
-            <h4>Bronze Sponsors</h4>
-            <div class="sec-horiz-divider"></div>
+            <h4 style="color: #757575">Bronze Sponsors</h4>
+            <div style="margin: 30px;"></div>
             <div class="d-flex justify-content-around" id="sponsors-imgs-row">
                 <div class="col-sm-12 col-md-6 col-lg-5 " style="width:auto; padding-top: 35px;" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
                 <img src="assets/images/sponsors/LSEG2.png" >
@@ -586,8 +587,8 @@
             
 
             <div  class="col align-self-center">
-            <h4>Other Sponsors</h4>
-            <div class="sec-horiz-divider"></div>
+            <h4 style="color: #757575">Other Sponsors</h4>
+                <div style="margin: 30px;"></div>
             <div class="row justify-content-center" id="sponsors-imgs-row">
                
                 <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
