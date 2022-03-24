@@ -343,7 +343,9 @@
 
     <!-- Keynote Speaker Section  -->
     <div id="keynote-speaker-sec">
-        <div class="bg-color-dark">
+<!--        <div class="bg-color-dark">-->
+        <div class="bg-color-gradient">
+
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="70 0 1340 200"><path fill="#ffffff" fill-opacity="1" d="M0,192L40,176C80,160,160,128,240,112C320,96,400,96,480,117.3C560,139,640,181,720,170.7C800,160,880,96,960,96C1040,96,1120,160,1200,170.7C1280,181,1360,139,1400,117.3L1440,96L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
             <div id="keynote">
                 <div class="text-center Keynote-speaker-title" data-aos="fade-up" data-aos-duration="1500">
