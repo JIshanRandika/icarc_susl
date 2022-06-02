@@ -64,67 +64,75 @@
 	
 	 <!-- Call for papers content  -->
 	 <section class="continer-fluid padding subpage-section" id="details">
-		<div class="container pt-5">
+         <div class="container pt-5">
+
 
 		<p class="subpage-sec-para text-center" id="oc-sec-top-para" data-aos="fade-up" data-aos-duration="1600">
-				
 			</p>
 			<h4 class="text-center mb-3">Honorary Chair</h4>
 				<div class="subpage-sec-horiz-divider-center mb-4"></div>
 				<div class="row justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 speaker" id="keynote-speaker-one">
-						<img src="./assets/images/oc/Prof.LinLi.jfif" width="100%">
-						<div class="speaker-social-links text-center p-3" id="keynote-speaker-slinks">
-							<a href="#" data-toggle="modal" data-target="#keynote-speaker-four"><i class="fas fa-user-circle fa-lg"></i></a>
-						</div>
+					<div class="col-sm-12 col-md-4 col-lg-3 speaker"
+                         id="keynote-speaker-one"
+                    >
+						<img src="./assets/images/oc/profile.jpg" width="100%">
+<!--						<div class="speaker-social-links text-center p-3" id="keynote-speaker-slinks">-->
+<!--							<a href="#" data-toggle="modal" data-target="#keynote-speaker-four"><i class="fas fa-user-circle fa-lg"></i></a>-->
+<!--						</div>-->
 						<div class="speaker-details text-center px-2">
-							<h5>Prof. Lin Lin Li</h5>
+							<h5>Assoc. Prof. Dr. Supavadee Aramvith</h5>
 							<p class="p-0 m-0">
-							Wuhan University of Technology, China
-							
-							</p>
+                                Department of Electrical Engineering,
+                                Chulalongkorn University, Thailand
+                            </p>
 						</div>
 					</div>
 				</div>
 			</br></br>
-			
+
 
 			
 			<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
 				<div class="row m-0 justify-content-center">
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Dr.Piumi.jpg" width="100%">
+						<img src="./assets/images/oc/Dr.Pubudu.jpg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Dr. U.A.P. Ishanka</h5>
+								<h5>Dr K.P.N<br>Jayasen</h5>
 								<small>Conference Chair</small>
+<!--                                <div class="speaker-details text-center px-2">-->
+<!--                                <p class="p-0 m-0">-->
+<!--                                    DDepartment Computing and Information Systems-->
+<!--                                    Sabaragamuwa University of Sri Lanka-->
+<!--                                </p>-->
+<!--                                </div>-->
 							</div>
 						</div>
 					</div>
 					
 
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Prof chandimal-jayawardena.jpeg" width="100%">
+						<img src="./assets/images/oc/Kumara%20sir.png" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Prof. C. Jayawardena </h5>
+								<h5>Prof. BTGS<br>Kumara </h5>
 								<small>Conference Co-Chair</small>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Prof Jayasinghe.jpeg" width="100%">
+						<img src="./assets/images/oc/Professor%20chinthaka.jpg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Prof. J.W. Jayasinghe</h5>
+								<h5>Prof. Chinthaka Premachandra</h5>
 								<small>Conference Co-Chair</small>
 							</div>
 						</div>
 					</div><div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Dr.Lekamge.jpg" width="100%">
+						<img src="./assets/images/oc/profile.jpg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Dr. L.S. Lekamge</h5>
+								<h5>Prof. Pradeep Abayagunawardena</h5>
 								<small>Conference Co-Chair</small>
 							</div>
 						</div>
@@ -132,19 +140,19 @@
 
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person"></div>
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Dr.Pubudu.jpg" width="100%">
+						<img src="./assets/images/oc/Mr.SThuseethan.jpg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Dr. K.P.N. Jayasena</h5>
+								<h5>Dr. S Thuseethan</h5>
 								<small>Secretary </small>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Mr.SThuseethan.jpg" width="100%">
+						<img src="./assets/images/oc/Mr.K.Banujan.jpg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Mr. S. Thuseethan </h5>
+								<h5>Mr. K Banujan </h5>
 								<small>Assistant Secretary</small>
 							</div>
 						</div>
@@ -152,19 +160,7 @@
 
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person"></div>
 			</div>
-		<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
-		<div class="row justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Prof Janaka-Rajapakse.jpeg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Prof. J. Rajapaksha </h5>
-								<small>International Relation Chair </small>
-							</div>
-						</div>
-					</div>
-			</div>
-			</div>
+
 <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
 <div class="row justify-content-center">
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
@@ -172,7 +168,7 @@
 						<div class="oc-person-details text-center">
 							<div class="py-3">
 								<h5>Prof. S. Vasanthapriyan</h5>
-								<small>TPC Chair</small>
+								<small>TPC Chair / Awards Chair</small>
 							</div>
 						</div>
 					</div>
@@ -182,42 +178,87 @@
 
 				<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
 				<div class="row m-0 justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person"></div>				
+					<div class="col-sm-12 col-md-4 col-lg-3 oc-person"></div>
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Dr.Kumara.jpg" width="100%">
+						<img src="./assets/images/oc/Dr.Piumi.jpg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Prof. B.T.G.S. Kumara</h5>
+								<h5>Dr. UAP Ishanka</h5>
 								<small>Publication Chair </small>
 							</div>
 						</div>
 					</div>
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Professor chinthaka.jpg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Prof. C. Premachandra</h5>
-								<small>Publication Co-Chair </small>
-							</div>
-						</div>
-					</div>
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Professor chinthaka.jpg" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Prof. C. Premachandra</h5>-->
+<!--								<small>Publication Co-Chair </small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person"></div>
 			</div>
 		</div>
-	
-		<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
-		<div class="row justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Mr.Anuradha.jpg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Mr. G.A.C.A. Herath</h5>
-								<small>Publicity Chair</small>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+
+                <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                    <div class="row justify-content-center">
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                            <img src="./assets/images/oc/Mr.Dangalla.jpg" width="100%">
+                            <div class="oc-person-details text-center">
+                                <div class="py-3">
+                                    <h5>Mr. RL Dangalla</h5>
+                                    <small>Logistic Chair</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                    <div class="row justify-content-center">
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                            <img src="./assets/images/oc/profile.jpg" width="100%">
+                            <div class="oc-person-details text-center">
+                                <div class="py-3">
+                                    <h5>Prof. Roshan Ragel </h5>
+                                    <small>International Relation Chair </small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                    <div class="row m-0 justify-content-center">
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person"></div>
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                            <img src="./assets/images/oc/profile.jpg" width="100%">
+                            <div class="oc-person-details text-center">
+                                <div class="py-3">
+                                    <h5>Dr. Maheshi B. Dissanayake</h5>
+                                    <small>WIE Track Chair</small>
+                                </div>
+                            </div>
+                        </div>
+                        					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                                                <img src="./assets/images/oc/Ms.Nirubhikaa.jpg" width="100%">
+                                                <div class="oc-person-details text-center">
+                                                    <div class="py-3">
+                                                        <h5>Ms. Nirubikaa<br> Ravikumar</h5>
+                                                        <small>WIE Track Co-Chair</small>
+                                                    </div>
+                                                </div>
+                        					</div>
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person"></div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
 
 				<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
 				<div class="row m-0 justify-content-center">
@@ -231,134 +272,219 @@
 						</div>
 					</div>
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Mr.Kalinga.jpg" width="100%">
+						<img src="./assets/images/oc/profile.jpg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Mr. K. Gunawardhana</h5>
+								<h5>Ms. Ashansha Wijeratne</h5>
 								<small>Workshop & Tutorial Co-Chair</small>
 							</div>
 						</div>
 					</div>
 			</div>
 			</div>
-			<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
-			<div class="row m-0 justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Dr.R.Samarasinghe.JPG" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Dr.  Rasara Samarasinghe</h5>
-								<small>WIE Track Chair</small>
-							</div>
-						</div>
-					</div>
-			
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Ms.Subodi.jpg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Ms. Subodhi Wasalthilake</h5>
-								<small>WIE Track Co-Chair</small>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+<!--			<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">-->
+<!--			<div class="row m-0 justify-content-center">-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Dr.R.Samarasinghe.JPG" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Dr.  Rasara Samarasinghe</h5>-->
+<!--								<small>WIE Track Chair</small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--			-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Ms.Subodi.jpg" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Ms. Subodhi Wasalthilake</h5>-->
+<!--								<small>WIE Track Co-Chair</small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
 
-				<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                    <div class="row justify-content-center">
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                            <img src="./assets/images/oc/Dr.Lekamge.jpg" width="100%">
+                            <div class="oc-person-details text-center">
+                                <div class="py-3">
+                                    <h5>Dr. LS Lekemge</h5>
+                                    <small>Publicity Chair</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                    <div class="row m-0 justify-content-center">
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                            <img src="./assets/images/oc/Mr.Vigneshwaran.jpg" width="100%">
+                            <div class="oc-person-details text-center">
+                                <div class="py-3">
+                                    <h5>Mr. P Vigneshwaran</h5>
+                                    <small> Online Resource Management Chair</small>
+                                </div>
+                            </div>
+                        </div>
+
+                <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                    <div class="row m-0 justify-content-center">
+                        <div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                            <img src="./assets/images/oc/Ms.Upeksha.JPG" width="100%">
+                            <div class="oc-person-details text-center">
+                                <div class="py-3">
+                                    <h5>Ms UP Kudagamage</h5>
+                                    <small> Registration Chair</small>
+                                </div>
+                            </div>
+                        </div>
+<br/>
+                        <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
+                            <div class="row m-0 justify-content-center">
+                                <div class="col-sm-12 col-md-4 col-lg-3 oc-person">
+                                    <img src="./assets/images/oc/Lohara%20madam.png" width="100%">
+                                    <div class="oc-person-details text-center">
+                                        <div class="py-3">
+                                            <h5>Mrs. Lohara Chathumini</h5>
+                                            <small> Finance Chair</small>
+                                        </div>
+                                    </div>
+                                </div>
+
+<!--                        <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">-->
+<!--                            <div class="row justify-content-center">-->
+<!--                                <div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--                                    <img src="./assets/images/oc/Ms.Lohara.jpeg" width="100%">-->
+<!--                                    <div class="oc-person-details text-center">-->
+<!--                                        <div class="py-3">-->
+<!--                                            <h5>Mrs. Lohara Chathumini</h5>-->
+<!--                                            <small>Finance Chair</small>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+
+				<!--<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
 				<div class="row m-0 justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Mr.Dangalla.jpg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Mr. R.L. Dangalla</h5>
-								<small> Finance Chair</small>
-							</div>
-						</div>
-					</div>
 					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
 						<img src="./assets/images/oc/Ms.Lohara.jpeg" width="100%">
 						<div class="oc-person-details text-center">
 							<div class="py-3">
-								<h5>Ms. L. Chathumini</h5>
-								<small>Finance Co-Chair  </small>
+								<h5>Mrs. Lohara Chathumini</h5>
+								<small> Finance Chair</small>
 							</div>
 						</div>
-					</div>
-				</div>
-			</div>
+					</div>-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Ms.Lohara.jpeg" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Ms. L. Chathumini</h5>-->
+<!--								<small>Finance Co-Chair  </small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
 
-				<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
-				<div class="row m-0 justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Mr.K.Banujan.jpg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Mr. K. Banujan</h5>
-								<small> Logistic and Online Resource Management Chair</small>
-							</div>
-						</div>
-					</div>
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Mr.Vigneshwaran.jpg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Mr. P. Vigneshwaran</h5>
-								<small>Logistic and Online Resource Management Co-Chair  </small>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-	
+<!--				<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">-->
+<!--				<div class="row m-0 justify-content-center">-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Mr.K.Banujan.jpg" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Mr. K. Banujan</h5>-->
+<!--								<small> Logistic and Online Resource Management Chair</small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Mr.Vigneshwaran.jpg" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Mr. P. Vigneshwaran</h5>-->
+<!--								<small>Logistic and Online Resource Management Co-Chair  </small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
 
-					<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
-		<div class="row justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Ms.Upeksha.JPG" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Ms. U.P. Kudagamage</h5>
-								<small>Registration Chair</small>
-							</div>
-						</div>
-					</div>
-					</div>
-			</div>	
-					<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
-		<div class="row justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Ms.AshansaWijeratne.jfif" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Ms. P.M.A.K. Wijeratne</h5>
-								<small>Webmaster</small>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
 
-			<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">
-		<div class="row justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">
-						<img src="./assets/images/oc/Ms.Nirubhikaa.jpg" width="100%">
-						<div class="oc-person-details text-center">
-							<div class="py-3">
-								<h5>Ms. N. Ravikumar</h5>
-								<small>Awards Chair</small>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+<!--					<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">-->
+<!--		<div class="row justify-content-center">-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Ms.Upeksha.JPG" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Ms. U.P. Kudagamage</h5>-->
+<!--								<small>Registration Chair</small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--					</div>-->
+<!--			</div>	-->
+<!--					<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">-->
+<!--		<div class="row justify-content-center">-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Ms.AshansaWijeratne.jfif" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Ms. P.M.A.K. Wijeratne</h5>-->
+<!--								<small>Webmaster</small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+
+<!--                        <div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">-->
+<!--                            <div class="row justify-content-center">-->
+<!--                                <div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--                                    <img src="./assets/images/oc/Ms.Upeksha.JPG" width="100%">-->
+<!--                                    <div class="oc-person-details text-center">-->
+<!--                                        <div class="py-3">-->
+<!--                                            <h5>Mrs. Lohara Chathumini</h5>-->
+<!--                                            <small> Finance Chair</small>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+
+<!--			<div class="subpage-sec-content mt-5 text-justify" id="speaker-sec" data-aos="fade-up" data-aos-duration="1900">-->
+<!--		<div class="row justify-content-center">-->
+<!--					<div class="col-sm-12 col-md-4 col-lg-3 oc-person">-->
+<!--						<img src="./assets/images/oc/Dr.Priyan.jpg" width="100%">-->
+<!--						<div class="oc-person-details text-center">-->
+<!--							<div class="py-3">-->
+<!--								<h5>Prof. S Vasanthapriyan</h5>-->
+<!--								<small>Awards Chair</small>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
 
 					
 				</div>
 			</div>
+
 		</div>
-		<svg style="position: relative; bottom: -10px;" xmlns="http://www.w3.org/2000/svg" viewBox="50 0 1340 220"><path fill="#cf6620" fill-opacity="1" d="M0,160L40,138.7C80,117,160,75,240,69.3C320,64,400,96,480,128C560,160,640,192,720,186.7C800,181,880,139,960,144C1040,149,1120,203,1200,208C1280,213,1360,171,1400,149.3L1440,128L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
-	</section>
+                </div>
+
+                    </div></div></div></div>
+         <svg style="position: relative; bottom: -10px; width: 100%" xmlns="http://www.w3.org/2000/svg" viewBox="50 0 1340 220"><path fill="#cf6620" fill-opacity="1" d="M0,160L40,138.7C80,117,160,75,240,69.3C320,64,400,96,480,128C560,160,640,192,720,186.7C800,181,880,139,960,144C1040,149,1120,203,1200,208C1280,213,1360,171,1400,149.3L1440,128L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
+
+     </section>
+
 
 	<!---------- Back to top button ---------->
     <span id="back-to-top-btn"><i class="fal fa-arrow-to-top fa-lg"></i><span>Top</span></span>

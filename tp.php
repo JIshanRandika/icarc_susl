@@ -72,64 +72,70 @@
                         <p style="padding-top: 20px;">
                         The papers submitted to the conference will be subjected to double-blind reviews by a maximum of three (03) reviewers, who will
                          be experts in the corresponding sub-field. The field experts for the reviewing process are selected Nationally (60%) and Internationally (40%). 
-                         The TPC committee also contains the international members who are experts in the tracks designated to support the review process. The conference review process is followed by the IEEE Reviewing <a href="https://conferences.ieeeauthorcenter.ieee.org/understand-peer-review/">guidelines</a>.
+                         The TPC committee also contains the international members who are experts in the tracks designated to support the review process. The conference review process is followed by the IEEE Reviewing <a target="_blank" href="https://conferences.ieeeauthorcenter.ieee.org/understand-peer-review/">guidelines</a>.
                         </p>
                     </div>
                     <div style=" display: list-item;"><div style="color: ##000000;display:inline-block;font-weight: bold;">Quality of Paper:</div>  </br>     
                         <p>
-                        
-                             <p> 1.	Mechanism to ensure sufficiently good English.</br></p>
+                        <ol type="1">
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol"> Mechanism to ensure sufficiently good English.</br></li>
                             <p>
-
-                            The TPC Committee/ Track Chairs will carefully handle this process and may ensure the quality of language with the support of subscribed online tools. </br>
+                                The TPC Committee/ Track Chairs will carefully handle this process and may ensure the quality of language with the support of subscribed online tools. </br>
                             </p>
-                            <p> 2.	Acceptance ratio.</br></p>
+
+
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">Acceptance ratio.</br></li>
 
                             <p>
                             Acceptance ratio of the last year was 39%. This year also Conference Organizers are targeting to keep the quality of the conference with the level of acceptance to 40-45%. </br></p>
 
-                            <p>3.	Mechanism to ensure that the authors follow the conference format.</br></p>
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">Mechanism to ensure that the authors follow the conference format.</br></li>
                             <p>
                             TPC has given the Standard IEEE Paper writing guidelines and link to the sample template is given. </br>
                             </p>
                             <p>
-                                During the Desk review process (prior to the formal double blind review) the scope and the formatting of the papers will be checked. Non-complying such as;</p> </br>
-                            
-                            <div style=" display: block;list-style-type: disc;margin-top: 1em;margin-bottom: 1em;margin-left: 0;margin-right: 0;padding-left: 40px;">
-                                <li style="padding-left: 40px;">	Papers that has more than six(06) pages.</li>
-                                <li style="padding-left: 40px;">	Papers that do not match the scope of the conference.</li>
-                                <li style="padding-left: 40px;">	Papers that do not follow proper formatting guidelines.</li>
-                                <li style="padding-left: 40px;">	Papers that have written in poor English.</li>
-                                <li style="padding-left: 40px;">	Papers that have more than 30% plagiarism.</li>
-                            </div>
+                                During the Desk review process (prior to the formal double blind review) the scope and the formatting of the papers will be checked. Non-complying such as;</p>
                             </p>
+                            <p>
+                            <ul style="padding-left: 60px;">
+                                <li style="padding-left: 20px;font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;">	Papers that has more than six(06) pages.</li>
+                                <li style="padding-left: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;">	Papers that do not match the scope of the conference.</li>
+                                <li style="padding-left: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;">	Papers that do not follow proper formatting guidelines.</li>
+                                <li style="padding-left: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;">	Papers that have written in poor English.</li>
+                                <li style="padding-left: 20px; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;">	Papers that have more than 30% plagiarism.</li>
+                            </ul>
+                            </p>
+
+
                             
                             <p>will be rejected.</p>
 
-                            <p>
-                            4.	If the paper is accepted, the authors will use the standard <a href="http://www.icarc.sab.ac.lk/crs.php">IEEE camera ready paper guidelines</a> to prepare the camera-ready paper and 
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">
+                            If the paper is accepted, the authors will use the standard <a target="_blank" href="http://www.icarc.sab.ac.lk/crs.php">IEEE camera ready paper guidelines</a> to prepare the camera-ready paper and
                             the editorial team will be in continuous connection with authors to get the papers formatted according to the guidelines. TPC also will check whether the author has addressed the reviewer comments at their level best. </br>
-                            </p>
-                            <p>
-                            5.	No-show authored papers will not be submitted to the Conference proceedings in IEEE Xplore (Pending Approval). </br>
-                            </p>
-                            <p>
-                            6.	Conference management tools is CMT.</br>
-                            </p>
-                            <p>
-                            7.	Turnitin will be used as the anti-plagiarism tool and the maximum acceptable plagiarism score 30%.</br>
-                            </p>
-                            <p>
-                            8.	The final decision of accepting or rejection of your work will be taken by the conference TPC committee based on the originality of the work.  
-                            </p>
+                            </li>
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">
+                            No-show authored papers will not be submitted to the Conference proceedings in IEEE Xplore (Pending Approval). </br>
+                            </li>
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">
+                            Conference management tools is CMT.</br>
+                            </li>
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">
+                            Turnitin will be used as the anti-plagiarism tool and the maximum acceptable plagiarism score 30%.</br>
+                            </li>
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">
+                            The final decision of accepting or rejection of your work will be taken by the conference TPC committee based on the originality of the work.
+                            </li>
+                        </ol>
                        </p>
                     </div>
                     <div style=" display: list-item;"><div style="color: ##000000;display:inline-block;font-weight: bold;">Selection of Best paper of the Sessions and Conference:</div>  
-                        <p style="padding-top: 20px;">
-                        1.	Nominated Papers for each track will be shortlisted based on the review score (average score of 4.0+ out of 5.0).</br></br>
-                        2.	On the conference presentation day, the session chairs and members nominated from TPC will together take the decision for the best paper for each track by considering the status/quality of presentations.</br></br> 
-                        3.	Best paper of the conference will be selected among the best session papers by the TPC chair together with session chairs.
-                        </p>
+                        <ol style="padding-top: 20px;">
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">Nominated Papers for each track will be shortlisted based on the review score (average score of 4.0+ out of 5.0).</li>
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">On the conference presentation day, the session chairs and members nominated from TPC will together take the decision for the best paper for each track by considering the status/quality of presentations.</li>
+                            <li style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol">Best paper of the conference will be selected among the best session papers by the TPC chair together with session chairs.</li>
+
+                        </ol>
                         
                     </div>
                 </div>

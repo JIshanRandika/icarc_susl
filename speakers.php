@@ -71,33 +71,35 @@
 				<h4 style="padding-top: 20px;" class="text-center mb-3">Keynote Speakers</h4>
 				<div class="subpage-sec-horiz-divider-center mb-4"></div>
 				<div class="row justify-content-center">
-					<div class="col-sm-12 col-md-4 col-lg-4 speaker" id="keynote-speaker-one">
-						<img src="./assets/images/speakers/Assoc.Prof.Dr.Aramvit.png" width="100%">
-						<div class="speaker-social-links text-center p-3" id="keynote-speaker-slinks">
-							<a href="#" data-toggle="modal" data-target="#keynote-speaker-three"><i class="fas fa-user-circle fa-lg"></i></a>
-						</div>
-						<div class="speaker-details text-center px-2 py-3">
-							<h5>Assoc. Prof. Dr. Supavadee Aramvit</h5>
-							<h6 class="p-0 m-0" style="color: #FFFFFF">
-							Department of Electrical Engineering,  Chulalongkorn University, Thailand
-							</h6>
-							<p class="p-0 m-0">
-							Title: </br> AI based Video Analytics 
-							</p>
-							</br>
-						</div>
-					</div>
+<!--					<div class="col-sm-12 col-md-4 col-lg-4 speaker" id="keynote-speaker-one">-->
+<!--						<img src="./assets/images/speakers/Assoc.Prof.Dr.Aramvit.png" width="100%">-->
+<!--						<div class="speaker-social-links text-center p-3" id="keynote-speaker-slinks">-->
+<!--							<a href="#" data-toggle="modal" data-target="#keynote-speaker-three"><i class="fas fa-user-circle fa-lg"></i></a>-->
+<!--						</div>-->
+<!--						<div class="speaker-details text-center px-2 py-3">-->
+<!--							<h5>Assoc. Prof. Dr. Supavadee Aramvit</h5>-->
+<!--							<h6 class="p-0 m-0" style="color: #FFFFFF">-->
+<!--							Department of Electrical Engineering,  Chulalongkorn University, Thailand-->
+<!--							</h6>-->
+<!--							<p class="p-0 m-0">-->
+<!--							Title: </br> AI based Video Analytics -->
+<!--							</p>-->
+<!--							</br>-->
+<!--						</div>-->
+<!--					</div>-->
 					<div class="col-sm-12 col-md-4 col-lg-4 speaker" id="keynote-speaker">
 						<img src="./assets/images/speakers/Dr.NalinAsankaGamagedaraArachchilage.jpg" width="100%">
 						<div class="speaker-social-links text-center p-3" id="keynote-speaker-slinks">
 							<a href="#" data-toggle="modal" data-target="#keynote-speaker-two"><i class="fas fa-user-circle fa-lg"></i></a>
 						</div>
 						<div class="speaker-details text-center px-2 py-3">
-							<h5>Dr. Nalin Asanka Gamagedara Arachchilage</h5>
-							<h6 class="p-0 m-0" style="color: #FFFFFF">School of Computer Science, University of Auckland, New Zealand</h6>
+							<h5>Professor Muttukrishnan Rajarajan</h5>
+							<h6 class="p-0 m-0" style="color: #FFFFFF">Department of Electrical and Electronic Engineering
+                                School of Science and Technology
+                                City University of London, United Kingdom
+                            </h6>
 							<p class="p-0 m-0">
-							Title: Developing countermeasures to protect </br> people from phishing attacks in the organisational context
-							 
+							Title: Professor of Security Engineering & Director Institute for Cyber Security
 							</p>
 						</div>
 					</div>
@@ -292,87 +294,20 @@
 	  <div class="modal-dialog modal-dialog-centered modal-lg">
 	    <div class="modal-content">
 	      <div class="modal-header">
-	      	<h4 class="modal-title speaker-title">Dr. Nalin Asanka Gamagedara Arachchilage</h4>
+	      	<h4 class="modal-title speaker-title">Professor Muttukrishnan Rajarajan</h4>
 	        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 	          <span aria-hidden="true"><i class="fal fa-times fa-lg"></i></span>
 	        </button>
 	      </div>
 	      <div class="modal-body">
             <p class="speaker-bio">
-				Dr Nalin Asanka Gamagedara Arachchilage is a Lecturer
-				(Assistant Professor) in Cyber Security and Privacy (Usable Security and
-				Privacy) in the School of Computer Science at the University of Auckland,
-				New Zealand. Besides, he is also an Honorary Associate Professor in Cyber
-				Security at the University of Warwick, UK. He is also a Visiting Research
-				Fellow in Cyber Security in the School of Engineering and Information
-				Technology of the University of New South Wales at the Australian Defence
-				Force Academy (ADFA) and an Adjunct Senior Research Fellow (April 2021 -
-				present) in Cyber Security (Research Associate Professor in US) within the
-				Department of Computer Science and Information Technology at La Trobe
-				University, Australia.
+                Professor Muttukrishnan Rajarajan received his BEng and PhD degrees from City University of London in 1994 and 1999 respectively. From 1999 he worked at City University of London as a Research Fellow. In August 2000 he moved to CMG as a Telecommunications Consultant. After a few years in the industry Raj is now a Professor of Security Engineering. He is currently the Director of the Institute for Cyber Security at City University of London and carries out research in the areas of privacy preserving data management, Internet of Things privacy, network intrusion detection, cloud security and identity management using blockchain. Raj has received funding from EPSRC, Royal Academy of Engineering, European Commission, Innovate UK, British Council and industry to carry out research in cyber security. He has supervised several PhDs jointly with British Telecommunications, UK in the area if data analytics for cyber security and network intrusion detection. To date Raj has graduated more than 30 PhD students in the area of Cyber Security and continues to supervise a good number of students in the area of Cloud Security, Privacy and blockchain.
 			  </p>
+
 			  <p class="speaker-bio">
-			  Previously, he was a Senior Research Fellow (Research Associate Professor
-				in the USA - from 2019 to 2021) in Cyber Security in the Department of
-				Computer Science and Information Technology at La Trobe University,
-				Australia. Before joining La Trobe, Nalin worked as a Lecturer in Cyber
-				Security (from 2016 to 2020) in the School of Engineering and Information
-				Technology of the University of New South Wales at the Australian Defence
-				Force Academy (ADFA), where he led the Usable Security research group. 
-				Nalin holds a PhD in Computer Science (Cyber Security) from Brunel
-				University London, UK, where he developed a game design framework for
-				teaching people how to protect themselves from phishing attacks. At Oxford
-				University, he cut his teeth as a Postdoctoral Researcher in Systems Security
-				Engineering (2013 - 2014) in the Department of Computer Science and then
-				joined the University of British Columbia (UBC), Canada as Postdoctoral
-				Research Fellow in Usable Security and Privacy (2014 - 2015).
+                  He is a senior member of IEEE, a member of IET and an associate member of the charted institute of information security and a member of Technical Programme Committees of several security and privacy conferences. Raj is the CEO of CityDefend (www.citydefend.com) a start up in the area of secure search in the encrypted Cloud. He also sits on the Editorial boards of the Journal on Wireless Networks, Elsevier Journal of Health Policy and Technology and Emerald Journal of Information Management and Computer Security.
 			  </p>
-			  <p class="speaker-bio">
-			  Nalin's primary research interests are at the intersection of computer security,
-				human-computer interaction (HCI), software engineering, Information systems
-				security and serious games, in an area known as usable security and privacy
-				engineering. In his research, he applies HCI methods and concepts to the
-				Cyber Security and Privacy domain. He also works on Secure Software
-				Engineering (i.e., developer-centred) and Machine Learning for Cyber/Usable
-				Security, specifically threat modelling through the cybercriminals'; and end
-				users'; behavioural analysis. Nalin's research is inter-disciplinary in nature and
-				has published numerous articles at the world’s leading conferences and high-
-				impact journals.
-			  </p>
-			  <p class="speaker-bio">
-					Nalin's primary research interests are at the intersection of computer security, human-
-		computer interaction (HCI), software engineering, Information systems security and
-		serious games, in an area known as usable security and privacy engineering. In his
-		research, he applies HCI methods and concepts to the Cyber Security and Privacy domain.
-		He also works on Secure Software Engineering (i.e., developer-centred) and Machine
-		Learning for Cyber/Usable Security, specifically threat modelling through the
-		cybercriminals' and end users' behavioural analysis. Nalin's research is inter-disciplinary in
-		nature and has published numerous articles at the world’s leading conferences and high-
-		impact journals.
-			  </p>
-			  <p class="speaker-bio">
-			  Nalin has presented his research at Facebook Headquarters, Menlo Park,
-				California, USA and collaborated with HP in a research capacity at the HP
-				Lab, Bristol, UK. His research has been featured in numerous media outlets
-				including ABC News Radio, 2GB 873 AM Radio, SYN Radio 90.7 FM, Sky
-				News Australia, Daily show on Radio 2SER 107.3, Choice - Australia,
-				Guardian labs (sponsored by Intel Corporation, Australia) and UNSW TV. He
-				has been an invited speaker for conferences both nationally and
-				internationally.
-			  </p>
-			  <p class="speaker-bio">
-			  Nalin also worked on a number of "sessional/visiting" lecturing positions in
-				Computer Science in the UK (Brunel University London, University of
-				Bedfordshire, Westminster University, and Central Bedfordshire College),
-				Canada (University of British Columbia), and Australia (Deakin University,
-				Victoria University, and Central Queensland University (CQUniversity).
-				</p>
-				<p class="speaker-bio">
-								Nalin obtained a BSc (MIS) Hons from University College Dublin, National
-				University of Ireland and has completed a master's degree, MSc Information
-				Management and Security at the University of Bedfordshire, UK. He is a Sun
-				Certified Java Programmer (SCJP) at Sun Microsystems (now Oracle), USA.
-				</p>
+
 	      </div>
 	    </div>
 	  </div>

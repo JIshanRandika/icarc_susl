@@ -67,17 +67,25 @@
 			<div class="subpage-sec-content mt-5 text-center" id="ap-sec" data-aos="fade-up" data-aos-duration="1900">
 				
 					<h5>
-							Professor Yukawa Takashi, Nagaoka University of Technology, Japan.</br></br>
-							Professor Jiangning Wu, Dalian University of Technology, China.</br></br>
-							Professor Huazhu Song, Wuhan University of Technology, China.</br></br>
-                            Professor  Jianwen Xiang, Wuhan University of Technology, China.</br></br>
-                            Professor   Jian Tian, Wuhan University of Technology, China.</br></br>
-							Professor Prasad Jayaweera, University of Sri Jayewardenepura, Sri Lanka.</br></br>
-							Professor Roshan G. Ragel, University of Peradeniya, Sri Lanka.</br>
-                            
-							
+<!--							Professor Yukawa Takashi, Nagaoka University of Technology, Japan.</br></br>-->
+<!--							Professor Jiangning Wu, Dalian University of Technology, China.</br></br>-->
+<!--							Professor Huazhu Song, Wuhan University of Technology, China.</br></br>-->
+<!--                            Professor  Jianwen Xiang, Wuhan University of Technology, China.</br></br>-->
+<!--                            Professor   Jian Tian, Wuhan University of Technology, China.</br></br>-->
+<!--							Professor Prasad Jayaweera, University of Sri Jayewardenepura, Sri Lanka.</br></br>-->
+<!--							Professor Roshan G. Ragel, University of Peradeniya, Sri Lanka.</br>-->
 
-					</h5>
+                        Professor Chandimal Jayawardena, Sri Lanka Institute of Information Technology, Sri Lanka.</br></br>
+                        Professor Jiangning Wu, Dalian University of Technology, China.</br></br>
+                        Professor Lin Li	Wuhan, University of Technology, China.</br></br>
+                        Professor Yukawa Takashi,	Nagaoka University of Technology, Japan.</br></br>
+                        Professor Jianwen Xiang,	Wuhan University of Technology, China.</br></br>
+                        Professor Jian Tian,	Wuhan University of Technology, China.</br></br>
+                        Professor Prasad Jayaweera,	University of Sri Jayewardenepura, Sri Lanka.</br>
+
+
+
+                    </h5>
 			</div>
 		</div>
 		<svg style="position: relative; bottom: -10px;" xmlns="http://www.w3.org/2000/svg" viewBox="50 0 1340 220"><path fill="#cf6620" fill-opacity="1" d="M0,160L40,138.7C80,117,160,75,240,69.3C320,64,400,96,480,128C560,160,640,192,720,186.7C800,181,880,139,960,144C1040,149,1120,203,1200,208C1280,213,1360,171,1400,149.3L1440,128L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>

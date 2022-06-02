@@ -82,7 +82,7 @@
       <ul class="mb-2">
                         <li>All accepted and presented full papers to be submitted for publication to the IEEE Xplore.</li>
                         <li>All papers should be written in English.</li>
-                        <li>Since the conference only encourages full paper submission. Maximum length of a Full paper is limited to Six (06) A4 pages in the given <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Template </a>format. </li>
+                        <li>Since the conference only encourages full paper submission. Maximum length of a Full paper is limited to Six (06) A4 pages in the given <a target="_blank" href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Template </a>format. </li>
                         <li>During the Desk review process (prior to the  formal double blind review) the scope and the formatting of the papers will be checked. Non-complying such as;</li>
                                 <ul class="mb-2" style="margin-left:25px" >
                                     <li>Papers that has more than six(06) pages.</li>
@@ -112,10 +112,10 @@
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
       <ul class="mb-2">
-                        <li>All paper submissions are through <a href="https://cmt3.research.microsoft.com/ICARC2022 ">CMT </a>. If you are a first time user for CMT, create an account using your official email.</li>
-                        <li>Choose your most appropriate <a href="cfp.php">track</a>.</li>
+                        <li>All paper submissions are through <a target="_blank" href="https://cmt3.research.microsoft.com/ICARC2022 ">CMT </a>. If you are a first time user for CMT, create an account using your official email.</li>
+                        <li>Choose your most appropriate <a target="_blank" href="cfp.php">track</a>.</li>
                         <li>Manuscript submission should be in Adobe Portable Document Format (PDF) only.</li>
-                        <li>Please contact <a href="contact.php">here</a> , if you have any questions regarding your submission or experience any issues while submitting your manuscript.</li>
+                        <li>Please contact <a target="_blank" href="contact.php">here</a> , if you have any questions regarding your submission or experience any issues while submitting your manuscript.</li>
                         <li>Conference Organizers also encourage to get the prior clearances/ approvals from the respective organizations when there is a need for an ethical clearance for the content of the paper.</li>
                     </ul>
       </div>

@@ -93,7 +93,7 @@
                 	Address review comments carefully.
                 </li>
                 <li >
-                	The Camera Ready paper must follow the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE guidelines</a>.
+                	The Camera Ready paper must follow the <a target="_blank" href="https://www.ieee.org/conferences/publishing/templates.html">IEEE guidelines</a>.
                 </li>
                 <li >
                 	Conference organizers would Return/Reject the paper if the review comments were not addressed properly or sufficient effort was not taken by the author. This decision will be taken by TPC Committee of the Conference.
@@ -143,7 +143,7 @@
             <div class="subpage-sec-content mb-4 crs-sec" data-aos="fade-up" data-aos-duration="2200">
                 <h5 style="padding-top: 20px;">3. IEEE Copyright Guideline      </h5>
                 <p>
-                <a href="https://www.ieee.org/publications/rights/copyright-main.html">IEEE Guidelines</a>.
+                <a target="_blank" href="https://www.ieee.org/publications/rights/copyright-main.html">IEEE Guidelines</a>.
                  
                 </p>
                 

@@ -89,37 +89,37 @@
 
 
                         
+<!--        </br>-->
+<!--        <div class="workshop-speaker-details" align="justify">-->
+<!--            <h6 style="text-align:center;">About </h6>-->
+<!--            <p class="mb-0">-->
+<!--            The Panel Discussion on “Social Entrepreneurship and Women Empowerment’’ is organized-->
+<!--            by the IEEE Women in Engineering Affinity Group of SUSL in parallel to the ICARC 2023 with-->
+<!--            the intention of enhancing the understanding of undergraduates on how social-->
+<!--            entrepreneurship can empower women leaders in various disciplines and raising awareness-->
+<!--            on how to empower women by increasing their status through education, awareness,-->
+<!--            literacy, and training, as well as elaborating employment opportunities in various-->
+<!--            professions.                            -->
+<!--            </p>-->
+<!--            -->
+<!--        </div>-->
         </br>
-        <div class="workshop-speaker-details" align="justify">
-            <h6 style="text-align:center;">About </h6>
-            <p class="mb-0">
-            The Panel Discussion on “Social Entrepreneurship and Women Empowerment’’ is organized
-            by the IEEE Women in Engineering Affinity Group of SUSL in parallel to the ICARC 2023 with
-            the intention of enhancing the understanding of undergraduates on how social
-            entrepreneurship can empower women leaders in various disciplines and raising awareness
-            on how to empower women by increasing their status through education, awareness,
-            literacy, and training, as well as elaborating employment opportunities in various
-            professions.                            
-            </p>
-            
-        </div>
-        </br>
-        <div class="workshop-speaker-details">
-            <h6 style="text-align:center;">Target Audience </h6>
-            <p style="text-align:center;">University Students and Entrepreneurs</p>
-        </div>
+<!--        <div class="workshop-speaker-details">-->
+<!--            <h6 style="text-align:center;">Target Audience </h6>-->
+<!--            <p style="text-align:center;">University Students and Entrepreneurs</p>-->
+<!--        </div>-->
 
             <div class="container">
             <div class="row">
                 <div class="col align-self-start">
                 
                 </div>
-                <div class="col align-self-center workshop-speaker-details">
-                <h6 style="text-align:center;">Moderator </h6> </br>
-            <div ><img src="assets/images/speakers/Rasara.jpg"></div>
-        <div></br>Dr. Rasara Samarasinghe</br>Immediate Past Chair </br> IEEE WIE Sri Lanka Section</br>Senior Lecturer, University of Moratuwa</div> 
-    
-                </div>
+<!--                <div class="col align-self-center workshop-speaker-details">-->
+<!--                <h6 style="text-align:center;">Moderator </h6> </br>-->
+<!--            <div ><img src="assets/images/speakers/Rasara.jpg"></div>-->
+<!--        <div></br>Dr. Rasara Samarasinghe</br>Immediate Past Chair </br> IEEE WIE Sri Lanka Section</br>Senior Lecturer, University of Moratuwa</div> -->
+<!--    -->
+<!--                </div>-->
                 <div class="col align-self-end">
               
                 </div>
@@ -131,40 +131,71 @@
             <h6 style="text-align:center;">Speakers </h6>
             </br>
             <div class="container">
+
+
+
             <div class="row justify-content-center">
-                <div class="col-6 col-sm-4">
-                <img src="assets/images/speakers/kumudu.jpg" >
-                </br>
-                </br>Prof. Kumudu Perera</br>Wayamba University of Sri Lanka
+
+
+                <div class="col-sm-12 col-md-4 col-lg-4 speaker" id="keynote-speaker">
+                    <img src="./assets/images/speakers/Dr.NalinAsankaGamagedaraArachchilage.jpg" width="100%">
+                    <div class="speaker-social-links text-center p-3" id="keynote-speaker-slinks">
+                        <a href="#" data-toggle="modal" data-target="#keynote-speaker-one"><i class="fas fa-user-circle fa-lg"></i></a>
+                    </div>
+                    <div class="speaker-details text-center px-2 py-3">
+                        <h5>Mrs Otara<br/> Gunewardene</h5>
+
+                    </div>
                 </div>
-                <div class="col-6 col-sm-4">
-                <img src="assets/images/speakers/Pulani.jpg">
-                </br>
-                </br>Mrs. Pulani Ranasinghe</br>Founder &amp; Director, Loons Lab
+
+                <div class="col-sm-12 col-md-4 col-lg-4 speaker" id="keynote-speaker">
+                    <img src="./assets/images/speakers/Dr.NalinAsankaGamagedaraArachchilage.jpg" width="100%">
+                    <div class="speaker-social-links text-center p-3" id="keynote-speaker-slinks">
+                        <a href="#" data-toggle="modal" data-target="#keynote-speaker-two"><i class="fas fa-user-circle fa-lg"></i></a>
+                    </div>
+                    <div class="speaker-details text-center px-2 py-3">
+                        <h5>Eng (Mrs) Nipuni Karunaratne</h5>
+
+                    </div>
                 </div>
-              
-           
+
+
+
+<!--                <div class="col-6 col-sm-4">-->
+<!--                <img src="assets/images/speakers/kumudu.jpg" >-->
+<!--                </br>-->
+<!--                </br>-->
+<!--                    <h5>Mrs Otara Gunewardene</h5>-->
+<!--                </div>-->
+<!--                <div class="col-6 col-sm-4">-->
+<!--                <img src="assets/images/speakers/Pulani.jpg">-->
+<!--                </br>-->
+<!--                </br>-->
+<!--                    <h5>Eng (Mrs) Nipuni Karunaratne</h5>-->
+<!--                </div>-->
+
+
             </div>
-     
+
         </div>
 </br>
-        <div class="container">
-            <div class="row justify-content-center">
-              
-                <div class="col-6 col-sm-4">
-                <img src="assets/images/speakers/Thilini.jpg">
-                </br>
-                </br>Ms. Thilini Wijewardhana</br>Head of Security Operations &amp; Technology, CryptoGen
-                </div>
-                <div class="col-6 col-sm-4">
-                <img src="assets/images/speakers/Janani.jpg">
-                </br>
-                </br>Ms. Janani Liyanage</br>Scrum Alliance Agile Coaching Retreat Advisor
-                </div>
-           
-            </div>
-     
-        </div>
+<!--        <div class="container">-->
+<!--            <div class="row justify-content-center">-->
+<!--              -->
+<!--                <div class="col-6 col-sm-4">-->
+<!--                <img src="assets/images/speakers/Thilini.jpg">-->
+<!--                </br>-->
+<!--                </br>Ms. Thilini Wijewardhana</br>Head of Security Operations &amp; Technology, CryptoGen-->
+<!--                </div>-->
+<!--                <div class="col-6 col-sm-4">-->
+<!--                <img src="assets/images/speakers/Janani.jpg">-->
+<!--                </br>-->
+<!--                </br>Ms. Janani Liyanage</br>Scrum Alliance Agile Coaching Retreat Advisor-->
+<!--                </div>-->
+<!--           -->
+<!--            </div>-->
+<!--     -->
+<!--        </div>-->
         
     </div>
     </div> 
@@ -186,6 +217,52 @@
         }
         AOS.init({once: true});
     </script>
+
+
+
+    <div class="modal fade" id="keynote-speaker-one" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title speaker-title">Mrs Otara Gunewardene</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fal fa-times fa-lg"></i></span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p class="speaker-bio">
+                        Otara Gunewardene is a Sri Lankan entrepreneur, animal welfare advocate, conservationist and philanthropist. She is the founder of ODEL, Embark and Otara Foundation.
+                    </p>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="keynote-speaker-two" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title speaker-title">Eng (Mrs) Nipuni Karunaratne</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fal fa-times fa-lg"></i></span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p class="speaker-bio">
+                        Eng. Nipuni Karunaratne, Model Factory Manager, Digital Technology of Rolls Royce PLC, UK currently working with th	e NSF through its Global Digital Platform which has been established to harness Sri Lankan expatriates for national development.
+                    </p>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
 </body>
 <div class="se-pre-con"></div>
 </html>

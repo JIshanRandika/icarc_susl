@@ -66,62 +66,114 @@
 		<div class="container pt-5">
 			<div class="subpage-sec-content mt-5 text-center" id="ac-sec" data-aos="fade-up" data-aos-duration="1900">
 
-				<h4>Technical Program Chair</h4>
-					<p>Prof. S. Vasanthapriyan, Sabaragamuwa University of Sri Lanka</p>
-                <h5>Artificial Intelligence and Machine Learning Track</h5>
+<!--				<h4>Technical Program Chair</h4>-->
+<!--					<p>Prof. S. Vasanthapriyan, Sabaragamuwa University of Sri Lanka</p>-->
+                <h5>Artificial Intelligence and Machine Learning Track Track</h5>
 					<p>Dr. Lochandaka Ranatunga, University of Moratuwa (Chair)</br>
-					Prof. B.T.G.S. Kumara, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                        Prof Samantha Kumara, Sabaragamuwa University of Sri Lanka (Co-Chair)
 						</p>
-                <h5>Data Science and Applications Track</h5>
-					<p>Dr. Chathura Rajapaksha, University of Kelaniya(Chair)
-					</br>Prof. R.M.K.T. Rathnayake, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>
+                <h5>Computer Vision and Image Processing Track</h5>
+                <p>Dr Amirthalingam Ramanan, University of Jaffna (Chair)</br>
+                    Ms Ashansha Wijeratne, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>Text Analytics and Natural Language Processing Track</h5>
+                <p>Dr Sagara Sumathipla, University of Moratuwa (Chair)</br>
+                    Mr Kuhaneswaran Banujan, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>Data Analytics Track</h5>
+                <p>Dr Chathura Rajapaksha, University of Kelaniya  (Chair)</br>
+                    Prof Kapila Rathnayaka, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
                 <h5>Parallel and Distributed Computing Track</h5>
-					<p>Dr. Windhya Rankothge, Sri Lanka Institute of Information Technology (Chair)
-					</br>Dr. K.P.N. Jayasena, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>
-                <h5>Human-Computer Interaction and Computer Vision Track</h5>
-					<p>Dr. Kasun Karunanayake, University of Colombo School of Computing (Chair)
-					</br>Mr. R.L. Dangalla, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>
-				<h5>Knowledge Management and Information Systems Track</h5>
-					<p>Prof. Lasith Gunawardena, University of Sri Jayawardhanapura (Chair)
-					</br>Dr. Thilini Bhagya , Massey University, New Zealand (Co-Chair)</p>
-					
-				<h5>Software Engineering Track</h5>
-					<p>Dr. Jayalath Ekanayaka, Uva Wellassa University of Sri Lanka (Chair)
-					</br>Dr. Hiruni Rupasinghe, Sabaragamuwa University of Sri Lanka (Co-Chair)</br>
-					</p>
-				<h5>Industry R&D Track</h5>
-					<p>Ms. Heshani Mahalaksha, Electrical Engineer at Ceylon Electricity Board (Chair)
-					</br>Ms. Subodhi Wasalthilake, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>
+                <p>Dr Windhya Rankothge, Sri Lanka Institute of Information Technology (Chair)</br>
+                    Ms Subodhi Wasalthilake, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>Internet of Things and Applications Track</h5>
+                <p>Dr Tharinda Vidanagama, Wayamba University of Sri Lanka  (Chair)</br>
+                    Mr Palanisamy Vigneshwaran, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>Human-Computer Interaction Track</h5>
+                <p>Dr Kasun Karunanayake, University of Colombo School of Computing (Chair)</br>
+                    Ms Upeksha Kudagamage, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>Knowledge Management and Information Systems Track</h5>
+                <p>Prof Lasith Gunawardena, University of Sri Jayawardhanapura (Chair)</br>
+                    Dr Thilini Bhagya, Massey University, New Zealand (Co-Chair)
+                </p>
+                <h5>Software Engineering Track</h5>
+                <p>Dr Dasuni Nawinna, Sri Lanka Institute of Information Technology (Chair)</br>
+                    Dr Hiruni Rupasinghe, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>Industry R&D Track</h5>
+                <p>Ms Heshani Mahalaksha, Electrical Engineer at Ceylon Electricity Board (Chair)</br>
+                    Ms Nirubika Ravikumar, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>Technology-enhanced Learning and Teaching Track</h5>
+                <p>Dr Kalpani Manathunga, Sri Lanka Institute of Information Technology (Chair)</br>
+                    Dr Piumi Ishanka, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
+                <h5>General/Open Track</h5>
+                <p>Dr Pradeep Kalansooriya, General Sir John Kotelawala Defence University (Chair)</br>
+                    Dr Sugeeswari Lekamge, Sabaragamuwa University of Sri Lanka (Co-Chair)
+                </p>
 
-                <h5>Technology-enhanced learning and teaching Track</h5>
-					<p>Prof. Pradeep Abeygunawardhana, Sri Lanka Institute of Information Technology (Chair)
-					</br>Prof. Prasad Jayaweera, University of Sri Jayawardhanapura (Co-Chair)</p>
-				
-				<h5>General/Open Track</h5>
-					<p>Dr. L.P. Kalansooriya, General Sir John Kotelawala Defence University (Chair)
-					</br>Dr.  L.S. Lekamge, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>
+
+
+
+<!--                <h5>Data Science and Applications Track</h5>-->
+<!--					<p>Dr. Chathura Rajapaksha, University of Kelaniya(Chair)-->
+<!--					</br>Prof. R.M.K.T. Rathnayake, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>-->
+<!--                <h5>Parallel and Distributed Computing Track</h5>-->
+<!--					<p>Dr. Windhya Rankothge, Sri Lanka Institute of Information Technology (Chair)-->
+<!--					</br>Dr. K.P.N. Jayasena, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>-->
+<!--                <h5>Human-Computer Interaction and Computer Vision Track</h5>-->
+<!--					<p>Dr. Kasun Karunanayake, University of Colombo School of Computing (Chair)-->
+<!--					</br>Mr. R.L. Dangalla, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>-->
+<!--				<h5>Knowledge Management and Information Systems Track</h5>-->
+<!--					<p>Prof. Lasith Gunawardena, University of Sri Jayawardhanapura (Chair)-->
+<!--					</br>Dr. Thilini Bhagya , Massey University, New Zealand (Co-Chair)</p>-->
+<!--					-->
+<!--				<h5>Software Engineering Track</h5>-->
+<!--					<p>Dr. Jayalath Ekanayaka, Uva Wellassa University of Sri Lanka (Chair)-->
+<!--					</br>Dr. Hiruni Rupasinghe, Sabaragamuwa University of Sri Lanka (Co-Chair)</br>-->
+<!--					</p>-->
+<!--				<h5>Industry R&D Track</h5>-->
+<!--					<p>Ms. Heshani Mahalaksha, Electrical Engineer at Ceylon Electricity Board (Chair)-->
+<!--					</br>Ms. Subodhi Wasalthilake, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>-->
+<!---->
+<!--                <h5>Technology-enhanced learning and teaching Track</h5>-->
+<!--					<p>Prof. Pradeep Abeygunawardhana, Sri Lanka Institute of Information Technology (Chair)-->
+<!--					</br>Prof. Prasad Jayaweera, University of Sri Jayawardhanapura (Co-Chair)</p>-->
+<!--				-->
+<!--				<h5>General/Open Track</h5>-->
+<!--					<p>Dr. L.P. Kalansooriya, General Sir John Kotelawala Defence University (Chair)-->
+<!--					</br>Dr.  L.S. Lekamge, Sabaragamuwa University of Sri Lanka (Co-Chair)</p>-->
 
 				<h4>Committee Members</h4>
 				<p>
-					Assoc. Prof. Chinthaka Premachandra - Shibaura Institute of Technology, Japan</br>
-					Prof. Chandimal Jayawardena - Sri Lanka Institute of Information Technology</br>
-					Prof. Dongdong Zhao - Wuhan University of Technology, China</br>
-					Prof. Jian Tian - Japan Advanced Institute of Science and Technology (JAIST), Japan</br>
-					Dr. Sagara Sumathipala - University of Moratuwa</br>
-					Dr. Janaka Wijekoon - Sri Lanka Institute of Information Technology</br>
-					Dr. Anuradha Jayakody - Sri Lanka Institute of Information Technology</br>
-					Dr. Ruwan Wickramarachchi - University of Kelaniya</br>
-					Dr. Ajantha Atukorale - University of  Colombo School of Computing </br>
-					Dr. Tharinda Nishantha Vidanagama - Wayamba University of Sri Lanka</br>
-					Dr. M. Siyamalan - University of Jaffna</br>
-					Dr. K. Thabotharan - University of Jaffna</br>
-					Dr. S.R. Liyanage - University of Kelaniya</br>
-					Dr. A. Ramanan -  University of Jaffna</br>
-					Dr. Dilrukshi Gamage - Tokyo Institute of Technology, Japan</br>
-					 Dr. Tomotaka Kimura - Doshisha University, Japan</br>
-					 Dr. Hiroshi Ikeoka - Fukuyama University, Japan</br>
-					 Dr. Ravneet Kaur - Chitkara University, India</br>
-					 Dr. Samiru Gayan - University of Moratuwa</br>
+                    Prof. Chandimal Jayawardena, Sri Lanka Institute of Information Technology</br>
+                    Prof. Chinthaka Premachandra, Shibaura Institute of Technology</br>
+                    Prof. Dongdong Zhao, Wuhan University of Technology</br>
+                    Prof. Dulani Meedeniya, University of Moratuwa</br>
+                    Prof. Guenther Retscher, Vienna University of Technology</br>
+                    Prof. Roshan Ragel, University of Peradeniya</br>
+                    Prof. Takao Terano, Tokyo Institute of Technology</br>
+                    Dr. Ajantha Atukorale, University of Colombo</br>
+                    Dr. Akila Siriweera, University of Aizu</br>
+                    Dr. Alexander Rukshan, University of Vavuniya</br>
+                    Dr. Anuradha Jayakody, Sri Lanka Institute of Information Technology</br>
+                    Dr. Arunasalam Rahunanthan, Central State University</br>
+                    Dr. Dilrukshi Gamage, University of Moratuwa</br>
+                    Dr. Hiroshi Ikeoka, Fukuyama University</br>
+                    Dr. Janaka Wijekoon, Sri Lanka Institute of Information Technology</br>
+                    Dr. Ken Ferens, University of Manitoba</br>
+                    Dr. Ruwan Wickramarachchi, University of Kelaniya</br>
+                    Dr. Samiru Gayan, University of Moratuwa</br>
+                    Dr. Senaka Buthpitiya, Google</br>
+                    Dr. Sidath Liyanage, University of Kelaniya</br>
+                    Dr. Thabotharan Kathiravelu, University of Jaffna</br>
+                    Dr. Tomotaka Kimura, Doshisha University
+                    </br>
 
 					</p>
 			</div>

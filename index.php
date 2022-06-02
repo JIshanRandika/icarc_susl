@@ -75,7 +75,7 @@
                     
                     <div class="date-location-div mt-5">
                         <span class="date"><i class="fal fa-calendar-alt fa-lg" style="color: #f7ce0f;"></i>&nbsp; 23 - 24 Feb, 2023</span>
-                        <span class="place"><i class="fal fa-map-marker-alt fa-lg" style="color: #f7ce0f;"></i>&nbsp; Virtual Conference</span>
+                        <span class="place"><i class="fal fa-map-marker-alt fa-lg" style="color: #f7ce0f;"></i>&nbsp; SUSL, Belihuloya, Sri Lanka</span>
                     </div>
                 </div>
                 <div class="countdown-sec" data-aos="fade-up" data-aos-duration="1600">
@@ -128,19 +128,22 @@
                     </div>
                 
                     <div class="abt-sec-para" id="abt-section-para" data-aos="fade-up" data-aos-duration="1500">
-                        <h5 style="padding-top: 20px;" class="mb-4"><div style="vertical-align: super;font-size: small;display:inline-block;"><i class="fal fa-quote-left fa-lg"></i></div> Towards a Digitally Empowered Society <div style="vertical-align: super;font-size: small;display:inline-block;"><i class="fal fa-quote-right fa-lg"></i></div></h5>
+                        <h5 style="padding-top: 20px;" class="mb-4"><div style="vertical-align: super;font-size: small;display:inline-block;"><i class="fal fa-quote-left fa-lg"></i></div> Digital Transformation for the Sustainable Development <div style="vertical-align: super;font-size: small;display:inline-block;"><i class="fal fa-quote-right fa-lg"></i></div></h5>
                        
                         
-                        <p><div style="display:inline-block;">The 2</div><div style="vertical-align: super;font-size: small;display:inline-block;">nd</div> International Conference on Advanced Research in Computing ICARC - 2023 organized by the Department of Computing and Information Systems is scheduled to be held on 23<div style="vertical-align: super;font-size: small;display:inline-block;">rd</div> and 24<div style="vertical-align: super;font-size: small;display:inline-block;">th</div> February 2023. In an era of accelerated digital transformation brought on by the COVID-19 pandemic, the conference will be held under the theme
-                         <div style="color: ##000000;display:inline-block;font-weight: bold;">“Towards a Digitally Empowered Society”</div>. 
-                             It will bring together a variety of research presentations, workshops, and stimulating talks by leading figures from academia and industry, all on one platform, allowing to discuss recent innovations, technologies, and trends in a wide range of computing disciplines.
-                        </p>
+                        <p align="justify" ><div align="justify"  style="display:inline-block;">3<div align="justify"  style="vertical-align: super;font-size: small;display:inline-block;">rd</div>
+
+                        International Conference on Advanced Research in Computing (ICARC) is organized by the Department of Computing and Information Systems, Faculty of Applied Sciences, Sabaragamuwa University of Sri Lanka with the theme
+                            <div align="justify" style="color: #000000;display:inline-block;font-weight: bold;">“Digital Transformation for the Sustainable Development”</div>.</div>
+                         </p>
+
+                        <p align="justify">
+                        <div align="justify"  style="display:inline-block;">
+                            The 3<div align="justify"  style="vertical-align: super;font-size: small;display:inline-block;">rd</div> International Conference on Advanced Research in Computing ICARC 2022 will take place on the 23<div align="justify"  style="vertical-align: super;font-size: small;display:inline-block;">rd</div> and 24<div align="justify"  style="vertical-align: super;font-size: small;display:inline-block;">th</div> of February 2023 in Hybrid mode. The conference will feature a range of presentations on multidisciplinary research activities in the domain of computing, as well as stimulating talks and keynote addresses by leading personalities in the domains of Computer Science research.
+                        </div>
+                            </p>
                       
-                      
-                        <p><div style="display:inline-block;">ICARC 2023 is technically co-sponsored by the Institute of Electrical and Electronic Engineers, with the papers presented being submitted to IEEE Xplore digital library.</div></p>
-                         <p><div style="display:inline-block;">
-                         Since its inception in 2021, ICARC has garnered a great deal of attention for its broad breadth and high quality of research papers submitted. The conference is being organized with the participation and collaboration of a group of distinguished academics and professionals from Sri Lanka and throughout the world.
-                         </div></p>
+
                     </div>
                 </div>
                 <div id="about-sec-animated-img" class="col-sm-12 col-md-5 p-0" data-aos="fade-up" data-aos-duration="2700">
@@ -241,7 +244,7 @@
                 <div class="page">
                   <div class="timeline">
                     <div class="timeline__group">
-                      <span class="timeline__year">2021</span>
+                      <span class="timeline__year">2022</span>
                       <div class="timeline__box">
                         <div class="timeline__date">
                           <span class="timeline__day">1</span>
@@ -255,13 +258,13 @@
                       </div>
                       <div class="timeline__box">
                         <div class="timeline__date">
-                          <span class="timeline__day">28</span>
+                          <span class="timeline__day">30</span>
                           <span class="timeline__month">nov</span>
                         </div>
                         <div class="timeline__post">
                           <div class="timeline__content">
                           Paper Submission Deadline 
-                          <span style="color: #f53636;">(Closed)</span>
+                          <!-- <span style="color: #f53636;">(Closed)</span> -->
 
                           </div>
                         </div>
@@ -271,13 +274,13 @@
                         <span class="timeline__year">2023</span>
 						<div class="timeline__box">
 							<div class="timeline__date">
-								<span class="timeline__day">4</span>
+								<span class="timeline__day">1</span>
 								<span class="timeline__month">Jan</span>
 							</div>
                         <div class="timeline__post">
 							<div class="timeline__content">
 								Paper Acceptance Notification 
-                                <span style="color: #f53636;">(Completed)</span>
+                                <!-- <span style="color: #f53636;">(Completed)</span> -->
                                
 							</div>
                         </div>
@@ -290,7 +293,7 @@
                             <div class="timeline__post">
                                 <div class="timeline__content">
                                    Camera Ready Submission Deadline 
-                                    <span style="color: #f53636;">(Closed)</span>
+                                    <!-- <span style="color: #f53636;">(Closed)</span> -->
                                   
                                 </div>
                             </div>
@@ -303,7 +306,7 @@
                             <div class="timeline__post">
                                 <div class="timeline__content">
                                     Early Bird Registration Deadline 
-                                    <span style="color: #f53636;">(Closed)</span>
+                                    <!-- <span style="color: #f53636;">(Closed)</span> -->
                                     
                                 </div>
                             </div>
@@ -316,7 +319,7 @@
                             <div class="timeline__post">
                                 <div class="timeline__content">
                                     Regular Registration Deadline 
-                                    <span style="color: #f53636;">(Closed)</span>
+                                    <!-- <span style="color: #f53636;">(Closed)</span> -->
                                    
                                 </div>
                             </div>
@@ -344,7 +347,7 @@
     <!-- Keynote Speaker Section  -->
     <div id="keynote-speaker-sec">
 <!--        <div class="bg-color-dark">-->
-        <div class="bg-color-gradient">
+        <div class="bg-color-gradient-speaker">
 
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="70 0 1340 200"><path fill="#ffffff" fill-opacity="1" d="M0,192L40,176C80,160,160,128,240,112C320,96,400,96,480,117.3C560,139,640,181,720,170.7C800,160,880,96,960,96C1040,96,1120,160,1200,170.7C1280,181,1360,139,1400,117.3L1440,96L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
             <div id="keynote">
@@ -362,21 +365,25 @@
                         <div class="speaker-body">
                             <div class="row align-items-center justify-content-center">
                                 
-                                <div class="col-sm-12 col-md-4 col-lg-4 keynote-speaker handle-speaker" id="keynote-speaker-one">
-                                    <img src="./assets/images/speakers/Assoc.Prof.Dr.Aramvit.png" width="100%">
-                                    <div class="keynote-speaker-details text-center px-2">
-                                        <h5>Assoc. Prof. Dr. Supavadee Aramvit </h5>
-                                        <p class="p-0 m-0">Department of Electrical Engineering,  Chulalongkorn University, Thailand<br>
-                                        IEEE Asia Pacific (Region 10) Director-Elect 2022-2023
-                                        </p>
-                                    </div>
-                                </div>
+<!--                                <div class="col-sm-12 col-md-4 col-lg-4 keynote-speaker handle-speaker" id="keynote-speaker-one">-->
+<!--                                    <img src="./assets/images/speakers/Assoc.Prof.Dr.Aramvit.png" width="100%">-->
+<!--                                    <div class="keynote-speaker-details text-center px-2">-->
+<!--                                        <h5>Assoc. Prof. Dr. Supavadee Aramvit </h5>-->
+<!--                                        <p class="p-0 m-0">Department of Electrical Engineering,  Chulalongkorn University, Thailand<br>-->
+<!--                                        IEEE Asia Pacific (Region 10) Director-Elect 2022-2023-->
+<!--                                        </p>-->
+<!--                                    </div>-->
+<!--                                </div>-->
                                
                                 <div class="col-sm-12 col-md-4 col-lg-4 keynote-speaker handle-speaker">
                                     <img src="./assets/images/speakers/Dr.NalinAsankaGamagedaraArachchilage.jpg" width="100%">
                                     <div class="keynote-speaker-details text-center px-2 py-3">
-                                        <h5>Dr. Nalin Asanka Gamagedara Arachchilage</h5>
-                                        <p class="p-0 m-0">Lecturer (Assistant Professor) in Cyber Security and Privacy (Usable Security and Privacy),</br> School of Computer Science, University of Auckland, New Zealand</p>
+                                        <h5>Professor Muttukrishnan Rajarajan</h5>
+                                        <p class="p-0 m-0">Professor of Security Engineering & Director Institute for Cyber Security<br>
+                                            Department of Electrical and Electronic Engineering<br>
+                                            School of Science and Technology<br>
+                                            City University of London, United Kingdom
+                                        </p>
                                     </div>
                                 </div>
                                
@@ -419,26 +426,27 @@
         <div class="sponsors-sec-title text-center" data-aos="fade-up" data-aos-duration="1300">
             <h1 style="padding-top: 20px;">Organized By</h1>
             <div class="sec-horiz-divider"></div>
+          
         </div>
         <div class="container mt-5">
          <div class="row justify-content-between" id="sponsors-imgs-row">
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
-                <img src="assets/images/sponsors/susl.png">
+
+                <div class="col-sm-12 col-md-12 col-lg-12 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
+                <img src="assets/images/sponsors/Organized.PNG">
                 </div>
-           
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
-                <img src="assets/images/sponsors/IEEE_WIE_Studentbranch.jpg">
+                <!-- <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
+                <img src="assets/images/sponsors/test.png">
                 </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/IEEE_student_branch.JPG">
-                </div>
+                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" style="width:2000;" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
+                <img src="assets/images/sponsors/IEEE_student_branch.png">
+                </div> -->
                 
                
             </div>
         </div>
 
     </div>
-
+    </br>  
 
 
 <!-- <div class="container-fluid padding text-center">
@@ -482,6 +490,7 @@
             <h1 style="padding-top: 20px;">Recognition From</h1>
             <div class="sec-horiz-divider"></div>
         </div>
+        </br>  
         <div class="container mt-5">
          <div class="row justify-content-center" id="sponsors-imgs-row">
                 <!-- <div class="col-sm-12 col-md-4 col-lg-3 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
@@ -504,8 +513,7 @@
   </div>
 </div>
 
-     
-
+     </br>  
 
     <!-- Sponsors section ------------------------------------------------------------------------------------------>
     <div class="continer-fluid padding text-center" id="sponsors">
@@ -513,8 +521,24 @@
             <h1 style="padding-top: 20px;">Financially Sponsored By</h1>
             <div class="sec-horiz-divider"></div>
         </div>
+        </br>  
 
-       <div class="container">
+        <div class="container mt-5">
+                    <div class="row justify-content-between" id="sponsors-imgs-row">
+                        <div class="col-sm-12 col-md-4 col-lg-3 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
+                        <img src="assets/images/sponsors/tba.jpg">
+                        </div>
+                        <div class="col-sm-12 col-md-4 col-lg-3 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
+                        <img src="assets/images/sponsors/tba.jpg">
+                        </div>
+                        <div class="col-sm-12 col-md-4 col-lg-3 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
+                        <img src="assets/images/sponsors/tba.jpg">
+                        </div>
+                    </div>
+                </div>
+
+<!-- </br></br> </br>  -->
+       <!-- <div class="container">
         <div class="row">
             <div class="col-sm-5 col-md-4">
             <h4 style="color: #757575">Platinum Sponsor</h4>
@@ -524,7 +548,7 @@
                 
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/susl.png">
+                <img src="assets/images/sponsors/tba.jpg">
                 </div>
                 <div class="col-sm-12 col-md-3 col-lg-1 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
                  
@@ -541,7 +565,7 @@
                 
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/Sathuta4.png">
+                <img src="assets/images/sponsors/tba.jpg">
                 </div>
                 <div class="col-sm-12 col-md-3 col-lg-1 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
                  
@@ -551,14 +575,14 @@
 
               <div class="col-sm-5 offset-sm-2 col-md-4 offset-md-0">
             <h4 style="color: #757575">Silver Sponsor</h4>
-<!--            <div class="sec-horiz-divider"></div>-->
+
                   <div style="margin: 30px;"></div>
             <div class="row justify-content-between" id="sponsors-imgs-row">
                 <div class="col-sm-12 col-md-3 col-lg-1 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
                 
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/basehp4.png">
+                <img src="assets/images/sponsors/tba.jpg">
                 </div>
                 <div class="col-sm-12 col-md-3 col-lg-1 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
                  
@@ -575,10 +599,10 @@
             <div style="margin: 30px;"></div>
             <div class="d-flex justify-content-around" id="sponsors-imgs-row">
                 <div class="col-sm-12 col-md-6 col-lg-5 " style="width:auto; padding-top: 35px;" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
-                <img src="assets/images/sponsors/LSEG2.png" >
+                <img src="assets/images/sponsors/tba.jpg" >
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-5 p-0 m-0" style="width:auto" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/boc1.png">
+                <img src="assets/images/sponsors/tba.jpg">
                 </div>
                 
             </div>
@@ -594,80 +618,21 @@
             <div class="row justify-content-center" id="sponsors-imgs-row">
                
                 <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/Peoples-Bank4.png">
+                <img src="assets/images/sponsors/tba.jpg">
                 </div>
                
             </div>
             </div>
 
             
-        </div>
+        </div> -->
         
         
 
 
 
 
-        <!-- <div class="container mt-5">
-        <h4>Platinum Sponsors</h4>
-            <div class="sec-horiz-divider"></div>
-
-            <div class="row justify-content-between" id="sponsors-imgs-row">
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
-                
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/susl.png">
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
-                 
-                </div>
-            </div>
-            </br>
-            <h4>Gold Sponsors</h4>
-            <div class="sec-horiz-divider"></div>
-
-               <div class="row justify-content-between" id="sponsors-imgs-row">
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
-                
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                <img src="assets/images/sponsors/Sathuta.png">
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
-                   
-                </div>
-            </div>
-            <h4>Silver Sponsors</h4>
-            <div class="sec-horiz-divider"></div>
-
-               <div class="row justify-content-between" id="sponsors-imgs-row">
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
-                <img src="assets/images/sponsors/basehp.jpg">
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                    <img src="assets/images/sponsors/boc.png">
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
-                    
-                </div>
-            </div>
-            </br>
-            <h4>Other Sponsors</h4>
-            <div class="sec-horiz-divider"></div>
-
-            <div class="row justify-content-between" id="sponsors-imgs-row">
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor1" data-aos="fade-up" data-aos-duration="1400">
-               
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor2" data-aos="fade-up" data-aos-duration="1800">
-                    <img src="assets/images/sponsors/Peoples-Bank.jpg">
-                </div>
-                <div class="col-sm-12 col-md-4 col-lg-2 p-0 m-0" id="sponsor3" data-aos="fade-up" data-aos-duration="2200">
-                   
-                </div>
-            </div>
-             -->
+      
         </div>
         <svg style="position: relative; bottom: -10px;" xmlns="http://www.w3.org/2000/svg" viewBox="50 0 1340 220"><path fill="#cf6620" fill-opacity="1" d="M0,160L40,138.7C80,117,160,75,240,69.3C320,64,400,96,480,128C560,160,640,192,720,186.7C800,181,880,139,960,144C1040,149,1120,203,1200,208C1280,213,1360,171,1400,149.3L1440,128L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path></svg>
     </div>

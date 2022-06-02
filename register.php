@@ -84,43 +84,64 @@
 			
 			<table class="table table-bordered " >
 			<tr>
-				<th>Type of Participant</th>
-				<th>International/Domestic</th>
-				<th>Early Bird Registration (LKR/USD)</th>
-				<th>Late Registration (LKR/USD)</th>
+				<th rowspan="2">Type of Participant</th>
+				<th rowspan="2">International/Domestic</th>
+				<th colspan="2">Early Bird Registration (LKR/USD)</th>
+				<th colspan="2">Late Registration (LKR/USD)</th>
 			</tr>
+                <tr>
+                    <th>Online</th>
+                    <th>Physical</th>
+                    <th>Online</th>
+                    <th>Physical</th>
+                </tr>
+
 			<tr>
 				<th rowspan="2">Author/ Co-author</th>
-				<td class="text-primary">IEEE</td>
-				<td>Rs.10,000.00/ 50 USD</td>
-				<td>Rs.13,000.00/ 65 USD</td>
+				<td class="text-primary">IEEE Member</td>
+				<td>Rs.20,000.00</td>
+                <td>Rs.25,000.00</td>
+                <td>Rs.25,000.00</td>
+				<td>Rs.30,000.00</td>
 			</tr>
 			<tr>
-				<td class="text-primary">Non IEEE</td>
-				<td>Rs.20,000.00/ 100 USD</td>
-				<td>Rs.23,000.00/ 115 USD</td>
+				<td class="text-primary">Non IEEE Member</td>
+				<td>Rs.25,000.00</td>
+                <td>Rs.30,000.00</td>
+                <td>Rs.30,000.00</td>
+				<td>Rs.35,000.00</td>
 			</tr>
+
+
 			<tr>
 				<th rowspan="2">Student Author/ Co-author</th>
-				<td class="text-primary">IEEE</td>
-				<td>Rs.5,000.00/ 25 USD</td>
-				<td>Rs.8,000.00/ 40 USD</td>
+				<td class="text-primary">IEEE Member</td>
+				<td>Rs.15,000.00</td>
+                <td>Rs.20,000.00</td>
+                <td>Rs.20,000.00</td>
+				<td>Rs.25,000.00</td>
 			</tr>
 			<tr>
-				<td class="text-primary">Non IEEE</td>
-				<td>Rs.10,000.00/ 50 USD</td>
-				<td>Rs.13,000.00/ 65 USD</td>
+				<td class="text-primary">Non IEEE Member</td>
+				<td>Rs.17,500.00</td>
+                <td>Rs.22,500.00</td>
+                <td>Rs.22,500.00</td>
+				<td>Rs.17,500.00</td>
 			</tr>
 			<tr>
 				<th rowspan="2">Participant</th>
-				<td class="text-primary">IEEE</td>
-				<td>Rs.7,500.00/ 38 USD</td>
-				<td>Rs.10,000.00/ 50 USD</td>
+				<td class="text-primary">IEEE Member</td>
+				<td>Free</td>
+                <td>Rs.5,000.00</td>
+                <td>Free</td>
+				<td>Rs.5,000.00</td>
 			</tr>
 			<tr>
-				<td class="text-primary">Non IEEE</td>
-				<td>Rs.15,000.00/ 75 USD</td>
-				<td>Rs.18,000.00/ 90 USD</td>
+				<td class="text-primary">Non IEEE Member</td>
+				<td>Rs.2,500.00</td>
+                <td>Rs.7,500.00</td>
+                <td>Rs.2,500.00</td>
+				<td>Rs.7,500.00</td>
 			</tr>
 				</table>
 				</div>
@@ -262,13 +283,21 @@
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-6 col-lg-6">
-							<h6 class="mt-3 text-left">Participants (Spouse/Partner/Other)</h6>
+							<h6 class="mt-3 text-left">Presenters/Participants (Spouse/Partner/Other)</h6>
 							<hr>
 							<div style=" display: block;list-style-type: disc;margin-top: 1em;margin-bottom: 1 em;margin-left: 0;margin-right: 0;padding-left: 40px;">
-								<li>Participation in all sessions / Workshops</li>
-								<li>Program Book</li>
-								<li>Buffet Lunch</li>
-								<li>Tea/Coffee Breaks</li>
+                                <h6 class="mt-3 text-left">For the Online Presenters/Participants</h6>
+								<li>e-Participation in all sessions</li>
+								<li>e-Program Book</li>
+								<li>e-Abstract Book</li>
+								<li>e-Certificate</li>
+
+                                <h6 class="mt-3 text-left">For the Physical Presenters/Participants</h6>
+                                <li>Participation in all sessions</li>
+                                <li>e-Program Book</li>
+                                <li>e-Abstract Book</li>
+                                <li>e-Certificate</li>
+                                <li>Lunch / Refreshments</li>
 							</div>
 						</div>
 					</div>
