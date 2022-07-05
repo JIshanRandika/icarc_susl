@@ -261,7 +261,7 @@
 .navbar-collapse ul li{
 	padding: 8px;
 	font-family: font_medium;
-	font-size: 14px;
+	font-size: 0.8vw;
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
 }

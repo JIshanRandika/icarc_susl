@@ -52,7 +52,17 @@
 
 /*-------- (max-width: 420px)---------------------------------------------*/
 @media (max-width: 650px) {
+	/*.nav-font-size{*/
+	/*	font-size: 1px;*/
+	/*}*/
 	/* ========== common ============== */
+	.navbar-collapse ul li{
+		padding: 2px;
+		font-family: font_medium;
+		font-size: 14px;
+		letter-spacing: 0.5px;
+		text-transform: uppercase;
+	}
 	body{
 		width: 100%;
 	}
@@ -800,6 +810,13 @@
     .navbar-collapse ul li a{
 		color: var(--theme-white);
 		transition: 0.2s;
+	}
+	.navbar-collapse ul li{
+		padding: 8px;
+		font-family: font_medium;
+		font-size: 14px;
+		letter-spacing: 0.5px;
+		text-transform: uppercase;
 	}
 	.navbar-collapse ul li a:hover{
 		color: var(--theme-yellow);

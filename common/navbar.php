@@ -7,9 +7,9 @@
 
         <div style="width: 100%" class="collapse navbar-collapse" id="navbar-responsive">
             <ul  class="navbar-nav  align-items-center">
-                <li style="font-size: 0.8vw" class="nav-item" id="navlink-hm"><a class="nav-link" href="index.php" id="navlink-home">Home</a></li>
+                <li  class="nav-item" id="navlink-hm"><a class="nav-link" href="index.php" id="navlink-home">Home</a></li>
                 <li style="margin: 0;padding: 0" class="nav-item dropdown" id="navlink-sb">
-                    <a  class="nav-link" href="#" id="navlink-submit" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 0.8vw">Submission</a>
+                    <a  class="nav-link" href="#" id="navlink-submit" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Submission</a>
                     <div class="dropdown-menu" aria-labelledby="navlink-submit" data-aos="fade-up" data-aos-duration="1000" id="submission-dropdown">
                         <a class="dropdown-item" href="cfp.php" >Call for papers</a>
                         <a class="dropdown-item" href="cft.php">Call for Tutorials</a>
@@ -22,11 +22,11 @@
                         
                     </div>
                 </li>
-                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-reg"><a class="nav-link" href="register.php" id="navlink-reg" style="font-size: 0.8vw">Registration</a></li>
-                <li style="margin: 0;padding: 0" class="nav-item text-center" id="navlink-sp"><a class="nav-link" href="program.php" id="navlink-speakers" style="font-size: 0.8vw">Program</a></li>
-                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-sp"><a class="nav-link" href="speakers.php" id="navlink-speakers" style="font-size: 0.8vw">speakers</a></li>
+                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-reg"><a class="nav-link" href="register.php" id="navlink-reg" >Registration</a></li>
+                <li style="margin: 0;padding: 0" class="nav-item text-center" id="navlink-sp"><a class="nav-link" href="program.php" id="navlink-speakers" >Program</a></li>
+                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-sp"><a class="nav-link" href="speakers.php" id="navlink-speakers">speakers</a></li>
                 <li style="margin: 0;padding: 0" class="nav-item dropdown" id="navlink-abt">
-                    <a class="nav-link" href="#" id="navlink-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 0.8vw">Committee</a>
+                    <a class="nav-link" href="#" id="navlink-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Committee</a>
                     <div class="dropdown-menu" aria-labelledby="navlink-about" data-aos="fade-up" data-aos-duration="1000" id="about-dropdown">
                         <a class="dropdown-item" href="ap.php">Advisory Panel</a>
                         <a class="dropdown-item" href="oc.php">Organizing Committee</a>
@@ -34,18 +34,18 @@
                     </div>
                 </li>
                 <li style="margin: 0;padding: 0" class="nav-item dropdown" id="navlink-abt">
-                    <a class="nav-link text-center" href="#" id="navlink-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 0.8vw">Workshops & Tutorials </a>
+                    <a class="nav-link text-center" href="#" id="navlink-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Workshops & Tutorials </a>
                     <div class="dropdown-menu" aria-labelledby="navlink-about" data-aos="fade-up" data-aos-duration="1000" id="about-dropdown">
                     <a class="dropdown-item" href="workshop.php">Workshops</a>
                         <a class="dropdown-item" href="tutorial.php">Tutorials</a>                   
                          </div>
                 </li>
                 <!-- <li class="nav-item" id="navlink-tr"><a class="nav-link" href="workshop.php" id="navlink-tracks">Workshops</a></li> -->
-                <li style="margin: 0;padding: 0" class="nav-item text-center" id="navlink-tr"><a class="nav-link" href="wie.php" id="navlink-tracks" style="font-size: 0.8vw">WIE Events</a></li>
-                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-tr"><a class="nav-link" href="gallery.php" id="navlink-tracks" style="font-size: 0.8vw">Gallery</a></li>
-                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-con"><a class="nav-link" href="contact.php" id="navlink-contact" style="font-size: 0.8vw">Contact</a></li>
+                <li style="margin: 0;padding: 0" class="nav-item text-center" id="navlink-tr"><a class="nav-link" href="wie.php" id="navlink-tracks">WIE Events</a></li>
+                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-tr"><a class="nav-link" href="gallery.php" id="navlink-tracks">Gallery</a></li>
+                <li style="margin: 0;padding: 0" class="nav-item" id="navlink-con"><a class="nav-link" href="contact.php" id="navlink-contact">Contact</a></li>
                 <li style="margin: 0;padding: 0" class="nav-item dropdown" id="navlink-abt">
-                    <a class="nav-link text-center" href="#" id="navlink-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 0.8vw">Past Conferences</a>
+                    <a class="nav-link text-center" href="#" id="navlink-about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Past Conferences</a>
                     <div class="dropdown-menu" aria-labelledby="navlink-about" data-aos="fade-up" data-aos-duration="1000" id="about-dropdown">
                         <a class="dropdown-item" href="/archive/icarc-2022/index.php" target="_blank">ICARC 2022</a>
                         <a class="dropdown-item" href="/archive/icarc-2021/index.php" target="_blank">ICARC 2021</a>
